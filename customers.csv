@@ -1,0 +1,1001 @@
+customer_id,customer_name,join_date,gender,age,city,region,churn_status
+CUST_1,Customer_1 ,07-11-2024,Other,,Paris,Africa,Active
+CUST_2,Customer_2 ,20-02-2020,Female,22,TOkYO,Africa,Churned
+CUST_3,Customer_3 ,15-11-2022,Mae,57,São Paulo,North America,Active
+CUST_4,Customer_4 ,23-02-2023,Male,,Paris,North America,Active
+CUST_5,Customer_5 ,31-05-2023,Male,,Berlin,Europe,Active
+CUST_6,Customer_6 ,05-04-2022,other,29,Delhi,North America,Churned
+CUST_7,Customer_7 ,16-04-2020,Male,,New York,Asia,Active
+CUST_8,Customer_8 ,16-04-2023,Other,,Tokyo,North America,Churned
+CUST_9,Customer_9 ,26-02-2021,Female,,Lodo,Europe,Active
+CUST_10,Customer_10 ,15-02-2020,Male,27,Delhi,North America,cHURned
+CUST_11,Customer_11 ,06-06-2023,Male,27,Berlin,South America,Churned
+CUST_12,Customer_12 ,07-02-2022,Other,,New York,Asia,Active
+CUST_13,Customer_13 ,05-06-2024,Other,,New York,aFRIcA,Churned
+CUST_14,Customer_14 ,25-03-2020,Other,41,São aulo,Europe,Active
+CUST_15,Customer_15 ,30-03-2024,Male,63,Delhi,North America,Churned
+CUST_16,Customer_16 ,03-03-2022,Female,24,São Paulo,Africa,Churned
+CUST_17,Customer_17 ,30-06-2022,Other,,London,Aia,Active
+CUST_18,Customer_18 ,25-12-2024,OThEr,,London,North America,Actve
+CUST_19,Customer_19 ,24-07-2020,Other,22,São Paulo,Europe,Churned
+CUST_20,Customer_20 ,09-06-2021,Female,42,New York,Asia,Active
+CUST_21,Customer_21 ,21-06-2023,Male,,loNdon,Africa,Churned
+CUST_22,Customer_22 ,08-01-2022,Other,,Tokyo,Africa,Active
+CUST_23,Customer_23 ,12-06-2020,Other,,São pauLo,noRtH AmeriCA,Active
+CUST_24,Customer_24 ,06-04-2024,Female,24,Delhi,Asia,Churned
+CUST_25,Customer_25 ,24-11-2021,Male,,Delhi,South America,Active
+CUST_26,Customer_26 ,17-04-2021,Male,,SÃO PaUlO,South America,Acive
+CUST_27,Customer_27 ,30-11-2023,Other,,Lodo,Africa,Churned
+CUST_28,Customer_28 ,08-05-2023,Other,30,São Paulo,South America,Active
+CUST_29,Customer_29 ,29-02-2024,Male,,Tokyo,Africa,Active
+CUST_30,Customer_30 ,12-06-2020,Female,55,Berlin,Africa,Churned
+CUST_31,Customer_31 ,25-11-2022,FEmaLe,24,London,Europe,Churned
+CUST_32,Customer_32 ,15-04-2021,Other,31,London,South America,Active
+CUST_33,Customer_33 ,01-01-2021,Female,,Berlin,Africa,Churned
+CUST_34,Customer_34 ,03-07-2022,Male,,bERlIN,Africa,Churned
+CUST_35,Customer_35 ,05-07-2020,Male,,São Paulo,Asia,Churned
+CUST_36,Customer_36 ,24-03-2024,otheR,63,Tokyo,Africa,Churned
+CUST_37,Customer_37 ,12-11-2021,Male,31,So Paulo,Asia,Churned
+CUST_38,Customer_38 ,29-09-2022,Female,,Tokyo,Europe,Churned
+CUST_39,Customer_39 ,27-05-2023,Male,,Tokyo,North America,Active
+CUST_40,Customer_40 ,06-01-2024,Other,61,paRIs,Asia,Active
+CUST_41,Customer_41 ,02-03-2020,Other,,Berlin,South America,Active
+CUST_42,Customer_42 ,06-10-2024,Female,21,NewYork,North America,Active
+CUST_43,Customer_43 ,21-02-2021,Male,58,New York,souTH AmeRIcA,Curned
+CUST_44,Customer_44 ,24-10-2020,Male,57,Berlin,North America,Churned
+CUST_45,Customer_45 ,09-01-2023,OtHER,,Paris,afRiCA,Active
+CUST_46,Customer_46 ,11-12-2021,Male,26,Tokyo,Africa,Churned
+CUST_47,Customer_47 ,31-05-2021,Other,,londoN,NORth aMERiCa,ACtIvE
+CUST_48,Customer_48 ,04-01-2022,Male,,Paris,South America,Active
+CUST_49,Customer_49 ,24-10-2024,Other,,London,aFRICa,Churned
+CUST_50,Customer_50 ,23-06-2022,Other,60,São Paulo,Europe,Churned
+CUST_51,Customer_51 ,12-06-2022,Male,42,Delhi,africA,Churned
+CUST_52,Customer_52 ,01-06-2024,Female,,Delhi,Asia,Churned
+CUST_53,Customer_53 ,23-10-2022,Other,,Tokyo,Europe,Active
+CUST_54,Customer_54 ,16-04-2023,Other,33,Tokyo,North America,Active
+CUST_55,Customer_55 ,22-05-2022,Female,21,São Paulo,Asia,Ative
+CUST_56,Customer_56 ,07-04-2021,Male,,Delhi,South America,Active
+CUST_57,Customer_57 ,23-03-2023,Female,33,Paris,North America,Churned
+CUST_58,Customer_58 ,22-12-2021,Other,28,Delhi,South America,Churned
+CUST_59,Customer_59 ,13-12-2024,Other,,Tokyo,Africa,Churned
+CUST_60,Customer_60 ,15-07-2024,Other,,São Paulo,Asia,Churned
+CUST_61,Customer_61 ,18-05-2020,Other,31,Paris,Africa,Churned
+CUST_62,Customer_62 ,18-08-2021,Other,,Delhi,South America,Active
+CUST_63,Customer_63 ,04-02-2022,Male,,Tokyo,North America,Churned
+CUST_64,Customer_64 ,27-11-2020,Male,18,Delhi,North America,Chrned
+CUST_65,Customer_65 ,20-10-2020,Other,,Tokyo,AsiA,Churned
+CUST_66,Customer_66 ,19-10-2024,oThER,65,New York,Asia,Active
+CUST_67,Customer_67 ,21-07-2022,Male,55,São Paulo,Africa,Churned
+CUST_68,Customer_68 ,17-12-2020,Male,,Dehi,Europe,Churned
+CUST_69,Customer_69 ,21-12-2021,Female,63,New York,Europe,Churned
+CUST_70,Customer_70 ,13-12-2021,Other,,Paris,Asia,ACTIVE
+CUST_71,Customer_71 ,23-10-2021,Female,35,London,Asia,Churned
+CUST_72,Customer_72 ,18-01-2024,Other,58,New York,Asia,Churned
+CUST_73,Customer_73 ,27-09-2022,Male,,Delhi,Europe,Active
+CUST_74,Customer_74 ,10-09-2024,femALe,45,pAriS,Europe,Churned
+CUST_75,Customer_75 ,16-02-2024,OTHER,19,Pars,Asia,aCtIvE
+CUST_76,Customer_76 ,19-10-2023,Female,,TOkyO,Africa,Active
+CUST_77,Customer_77 ,28-01-2020,Other,,São Paulo,South America,Churned
+CUST_78,Customer_78 ,20-04-2020,Other,,Tokyo,South America,Churned
+CUST_79,Customer_79 ,08-04-2023,Other,50,São Paulo,Euroe,acTIVe
+CUST_80,Customer_80 ,18-12-2024,Female,53,São Paulo,SoUth amEricA,ctive
+CUST_81,Customer_81 ,08-08-2024,Other,,New York,Asi,Churned
+CUST_82,Customer_82 ,03-09-2022,Female,,São Paulo,Asia,Churned
+CUST_83,Customer_83 ,03-07-2022,Other,,Tokyo,Africa,Active
+CUST_84,Customer_84 ,02-02-2024,Male,51,São Paulo,Asia,Actve
+CUST_85,Customer_85 ,03-03-2024,Other,24,Tokyo,Asia,Active
+CUST_86,Customer_86 ,18-09-2024,Other,,New York,South America,Churned
+CUST_87,Customer_87 ,09-11-2021,Other,,Paris,Africa,Active
+CUST_88,Customer_88 ,18-03-2021,Female,56,Delhi,North America,Active
+CUST_89,Customer_89 ,26-05-2023,fEMAlE,,Delhi,South America,Churned
+CUST_90,Customer_90 ,17-06-2023,Female,19,London,South America,CHurNeD
+CUST_91,Customer_91 ,05-10-2023,Other,27,New York,North America,Churned
+CUST_92,Customer_92 ,19-01-2021,Female,38,Delhi,Africa,Churned
+CUST_93,Customer_93 ,14-01-2021,Male,41,New York,Africa,cHuRNed
+CUST_94,Customer_94 ,16-05-2022,Male,56,London,South America,Churned
+CUST_95,Customer_95 ,10-12-2020,Other,,New York,Europe,Churned
+CUST_96,Customer_96 ,19-09-2023,Other,,New York,Europe,Active
+CUST_97,Customer_97 ,07-02-2020,Male,62,São Paulo,Africa,Churned
+CUST_98,Customer_98 ,25-02-2024,Other,20,Tokyo,South America,active
+CUST_99,Customer_99 ,09-05-2024,Male,31,São Paulo,Asia,Churned
+CUST_100,Customer_100 ,14-12-2023,Male,,DElHI,North America,Active
+CUST_101,Customer_101 ,26-03-2020,oTHeR,27,London,africA,cHuRned
+CUST_102,Customer_102 ,25-03-2023,OthER,,New York,Africa,Churned
+CUST_103,Customer_103 ,09-07-2022,Other,28,Paris,aFricA,Active
+CUST_104,Customer_104 ,23-08-2024,Female,27,New York,Africa,Churned
+CUST_105,Customer_105 ,22-02-2022,Other,18,London,Asia,Churned
+CUST_106,Customer_106 ,13-02-2021,FeMAlE,,São Paulo,Europe,Active
+CUST_107,Customer_107 ,26-09-2021,oThER,,Delhi,Europe,Churned
+CUST_108,Customer_108 ,30-12-2020,Other,,Tokyo,Europe,Active
+CUST_109,Customer_109 ,26-01-2021,Female,,New York,Europe,Churned
+CUST_110,Customer_110 ,08-03-2022,Male,,Berlin,South America,Active
+CUST_111,Customer_111 ,19-09-2023,Male,,Tokyo,Europe,Churned
+CUST_112,Customer_112 ,13-11-2023,Female,40,beRLiN,South America,Active
+CUST_113,Customer_113 ,02-01-2021,Other,,São Paulo,Africa,Active
+CUST_114,Customer_114 ,23-08-2024,Female,56,São Paulo,Asia,Active
+CUST_115,Customer_115 ,15-12-2023,Femae,49,neW York,North America,Active
+CUST_116,Customer_116 ,04-05-2020,Male,33,Delhi,Africa,Churned
+CUST_117,Customer_117 ,11-09-2020,Female,,Tokyo,Europe,Churne
+CUST_118,Customer_118 ,27-04-2024,Male,,Berlin,North America,Churned
+CUST_119,Customer_119 ,08-03-2024,Other,,Tokyo,North America,Active
+CUST_120,Customer_120 ,08-07-2022,Male,36,Belin,Europe,Active
+CUST_121,Customer_121 ,14-12-2021,Female,,Tokyo,South America,Active
+CUST_122,Customer_122 ,22-12-2024,Female,65,New York,Europe,Active
+CUST_123,Customer_123 ,13-04-2020,Female,,Tokyo,North America,Churned
+CUST_124,Customer_124 ,26-03-2022,female,22,Delhi,Afica,Active
+CUST_125,Customer_125 ,28-09-2021,Male,,Tokyo,Europe,Active
+CUST_126,Customer_126 ,08-10-2020,Male,29,São Paulo,Asa,Active
+CUST_127,Customer_127 ,16-11-2024,Female,21,São Paulo,South America,Active
+CUST_128,Customer_128 ,07-12-2020,Male,49,New York,North America,Churned
+CUST_129,Customer_129 ,25-07-2023,Other,,Tokyo,Africa,Churned
+CUST_130,Customer_130 ,20-06-2022,Male,,São Paulo,Europe,Acive
+CUST_131,Customer_131 ,14-01-2023,Male,,New York,NORTh AMeriCA,Active
+CUST_132,Customer_132 ,18-08-2022,ther,,Delhi,Africa,Active
+CUST_133,Customer_133 ,15-01-2020,Male,51,Berlin,North America,Churned
+CUST_134,Customer_134 ,26-01-2021,oThER,,bERlIN,Africa,Churned
+CUST_135,Customer_135 ,20-05-2020,Female,,London,Europe,CHURnED
+CUST_136,Customer_136 ,17-08-2020,Male,,New York,Africa,Churned
+CUST_137,Customer_137 ,11-01-2022,Other,32,Tokyo,North America,Active
+CUST_138,Customer_138 ,25-09-2021,Male,,New York,Europe,cHurNEd
+CUST_139,Customer_139 ,10-10-2020,Male,,Paris,South America,Active
+CUST_140,Customer_140 ,25-03-2024,otHer,49,São Paulo,South America,Active
+CUST_141,Customer_141 ,31-10-2023,Male,,Berlin,Asia,Active
+CUST_142,Customer_142 ,09-02-2020,Male,,New York,Africa,Churned
+CUST_143,Customer_143 ,18-12-2021,femAlE,50,New York,Europe,Active
+CUST_144,Customer_144 ,29-10-2021,OTHer,40,Berlin,Europe,Churne
+CUST_145,Customer_145 ,11-04-2023,Other,,São Paulo,Europe,Churned
+CUST_146,Customer_146 ,22-08-2024,Female,43,New York,Asia,Active
+CUST_147,Customer_147 ,15-03-2020,Female,,New York,North America,chURNEd
+CUST_148,Customer_148 ,12-03-2024,MaLE,,Tokyo,North America,Churned
+CUST_149,Customer_149 ,14-12-2023,Male,47,Delhi,South America,chURNed
+CUST_150,Customer_150 ,14-06-2020,Other,,London,Asia,Active
+CUST_151,Customer_151 ,03-10-2022,Male,38,London,Europe,Churned
+CUST_152,Customer_152 ,10-02-2024,Female,46,São Paulo,Europe,Active
+CUST_153,Customer_153 ,01-12-2022,Other,,Berlin,South America,Churned
+CUST_154,Customer_154 ,01-08-2023,Male,,São Paulo,South America,Churned
+CUST_155,Customer_155 ,22-03-2021,Other,54,Lonon,Asia,Active
+CUST_156,Customer_156 ,16-01-2024,Female,,Tokyo,Europe,Churned
+CUST_157,Customer_157 ,07-04-2021,Other,,Tky,Europe,Churned
+CUST_158,Customer_158 ,07-02-2020,Other,26,Lndn,North America,Churned
+CUST_159,Customer_159 ,14-04-2020,Female,,Berlin,South America,Active
+CUST_160,Customer_160 ,26-01-2020,Male,46,New York,South America,Churned
+CUST_161,Customer_161 ,03-09-2022,Male,,Tokyo,asIA,Active
+CUST_162,Customer_162 ,21-03-2024,Female,,New York,Africa,Active
+CUST_163,Customer_163 ,17-09-2022,Other,,berLiN,Asia,Churned
+CUST_164,Customer_164 ,19-09-2022,Female,55,London,North America,Churned
+CUST_165,Customer_165 ,23-11-2022,Male,,Delhi,North America,Churned
+CUST_166,Customer_166 ,24-03-2023,Other,56,Delhi,Europe,Churned
+CUST_167,Customer_167 ,26-06-2024,Other,,New York,South America,Active
+CUST_168,Customer_168 ,05-11-2020,Male,,Delhi,Europe,Active
+CUST_169,Customer_169 ,16-02-2021,ther,31,Tokyo,Africa,Active
+CUST_170,Customer_170 ,12-07-2021,Female,,New York,South America,Churned
+CUST_171,Customer_171 ,27-03-2024,Female,19,Paris,South America,Churned
+CUST_172,Customer_172 ,28-04-2020,Other,,London,Africa,Churned
+CUST_173,Customer_173 ,20-10-2024,Other,48,Delhi,Africa,Active
+CUST_174,Customer_174 ,25-10-2023,Female,,Paris,North America,Active
+CUST_175,Customer_175 ,31-01-2022,Other,63,London,euroPE,Churned
+CUST_176,Customer_176 ,28-08-2023,Male,34,Tokyo,Europe,ChurnED
+CUST_177,Customer_177 ,28-10-2023,Female,51,New York,South America,Active
+CUST_178,Customer_178 ,29-10-2022,Female,,Paris,South America,Active
+CUST_179,Customer_179 ,02-02-2022,Female,,Pris,Asia,Churned
+CUST_180,Customer_180 ,11-10-2022,Male,,Berlin,Africa,Active
+CUST_181,Customer_181 ,14-04-2021,Female,,lOndon,North America,Churned
+CUST_182,Customer_182 ,13-08-2021,Female,48,São Paulo,eUropE,Churned
+CUST_183,Customer_183 ,17-08-2024,Other,37,Paris,Africa,Active
+CUST_184,Customer_184 ,15-02-2021,Male,34,New Yrk,Asia,Churned
+CUST_185,Customer_185 ,20-04-2023,Male,35,Paris,Asia,Churned
+CUST_186,Customer_186 ,21-07-2023,Oter,,Berlin,Asia,Churned
+CUST_187,Customer_187 ,25-11-2022,Male,,Berlin,Europe,Ative
+CUST_188,Customer_188 ,16-09-2023,Femae,,bERLin,NorthAmerica,Active
+CUST_189,Customer_189 ,01-11-2021,Other,,London,Europ,Churned
+CUST_190,Customer_190 ,07-05-2024,Female,,London,Africa,Churned
+CUST_191,Customer_191 ,29-05-2020,Male,65,parIS,Africa,Churned
+CUST_192,Customer_192 ,10-06-2021,Other,35,Paris,Africa,Churned
+CUST_193,Customer_193 ,06-04-2020,Male,49,London,Afria,Active
+CUST_194,Customer_194 ,07-02-2022,Female,,Delhi,Asia,Active
+CUST_195,Customer_195 ,29-09-2023,Female,22,London,Asia,Active
+CUST_196,Customer_196 ,30-03-2024,Other,,New York,Asia,Churned
+CUST_197,Customer_197 ,19-01-2023,Female,43,London,Africa,Churned
+CUST_198,Customer_198 ,30-11-2023,Female,63,Pari,Asia,Churned
+CUST_199,Customer_199 ,30-11-2021,Other,,London,Afric,Churned
+CUST_200,Customer_200 ,13-12-2022,Male,21,Tokyo,North America,Churned
+CUST_201,Customer_201 ,16-02-2024,Female,18,Delhi,Europe,Churned
+CUST_202,Customer_202 ,01-09-2021,Female,,Delhi,ASia,Churned
+CUST_203,Customer_203 ,09-07-2020,Male,24,Tokyo,Europe,Churned
+CUST_204,Customer_204 ,20-12-2023,Female,,tokYO,Europe,Active
+CUST_205,Customer_205 ,30-11-2022,Female,31,Berlin,South America,Chuned
+CUST_206,Customer_206 ,19-09-2023,Female,61,loNdOn,Asia,Churned
+CUST_207,Customer_207 ,07-03-2021,Othr,,London,North America,Active
+CUST_208,Customer_208 ,04-05-2023,Female,,Paris,Europe,Churned
+CUST_209,Customer_209 ,12-06-2022,Other,,Delhi,SOUtH AMERIca,Active
+CUST_210,Customer_210 ,03-02-2023,Other,19,New Yrk,Africa,aCTiVE
+CUST_211,Customer_211 ,18-07-2022,Female,28,BeRLiN,Asia,Active
+CUST_212,Customer_212 ,15-10-2021,Female,36,Delhi,Nort America,Active
+CUST_213,Customer_213 ,06-01-2022,mAle,59,Tokyo,North America,Active
+CUST_214,Customer_214 ,28-12-2024,Other,65,Berlin,South America,Churned
+CUST_215,Customer_215 ,21-09-2023,Other,,são pAULo,Africa,Active
+CUST_216,Customer_216 ,05-09-2024,Male,,Berlin,North America,Churned
+CUST_217,Customer_217 ,18-04-2023,Female,42,pARis,South America,Active
+CUST_218,Customer_218 ,29-03-2022,Female,42,pAriS,Africa,acTiVe
+CUST_219,Customer_219 ,18-06-2020,Female,36,Delhi,Europe,Active
+CUST_220,Customer_220 ,06-06-2024,oThEr,,São Paulo,South America,aCTive
+CUST_221,Customer_221 ,24-09-2020,Male,,PaRiS,Europe,Active
+CUST_222,Customer_222 ,10-09-2020,Male,23,New York,Europe,Ative
+CUST_223,Customer_223 ,03-11-2024,Other,41,New York,North America,Active
+CUST_224,Customer_224 ,21-10-2022,Female,39,London,Africa,Active
+CUST_225,Customer_225 ,22-12-2021,Other,,New York,North America,Churned
+CUST_226,Customer_226 ,02-11-2020,Male,,Paris,aSia,Active
+CUST_227,Customer_227 ,14-12-2023,Other,47,New York,North America,Churned
+CUST_228,Customer_228 ,07-09-2024,Male,,Dlhi,NoRtH ameRIca,Churned
+CUST_229,Customer_229 ,03-05-2022,Other,43,São Paulo,North America,Active
+CUST_230,Customer_230 ,26-11-2023,Other,,London,North America,aCtIVe
+CUST_231,Customer_231 ,08-05-2021,Female,31,São Paulo,North America,Active
+CUST_232,Customer_232 ,27-06-2021,FEMalE,19,São Paulo,Euope,Active
+CUST_233,Customer_233 ,22-01-2020,Mal,,Paris,South America,Active
+CUST_234,Customer_234 ,13-08-2023,Male,50,London,Europe,Chrned
+CUST_235,Customer_235 ,17-04-2024,Female,,Tokyo,South America,Churned
+CUST_236,Customer_236 ,07-03-2021,Other,,New York,South America,ACTIVe
+CUST_237,Customer_237 ,07-05-2021,oTHEr,63,New York,Arica,Churned
+CUST_238,Customer_238 ,07-04-2022,Other,,Paris,Erope,Acive
+CUST_239,Customer_239 ,15-12-2023,Other,31,Paris,Asia,Churned
+CUST_240,Customer_240 ,28-04-2023,Female,,Paris,Africa,Activ
+CUST_241,Customer_241 ,04-03-2023,otHER,,Paris,North America,Active
+CUST_242,Customer_242 ,07-04-2023,Female,59,Delhi,South America,Active
+CUST_243,Customer_243 ,29-09-2020,Male,58,New York,Africa,Active
+CUST_244,Customer_244 ,16-06-2021,Male,,London,North America,Churnd
+CUST_245,Customer_245 ,22-07-2023,Other,,São Paulo,Africa,Churned
+CUST_246,Customer_246 ,21-09-2022,Female,57,Berlin,Asia,aCtiVE
+CUST_247,Customer_247 ,16-10-2022,Female,,Delhi,Asia,Churned
+CUST_248,Customer_248 ,18-07-2024,Male,51,São Paulo,Asia,Active
+CUST_249,Customer_249 ,22-02-2023,Other,,Paris,Europe,Churned
+CUST_250,Customer_250 ,23-12-2020,Male,58,Paris,Noth Ameica,Churned
+CUST_251,Customer_251 ,17-08-2021,Female,,London,Europe,Churned
+CUST_252,Customer_252 ,06-08-2023,Other,,Brlin,Asia,Active
+CUST_253,Customer_253 ,22-06-2020,otHeR,,Berlin,AFriCA,Churned
+CUST_254,Customer_254 ,07-09-2024,Other,62,São Paulo,North America,Active
+CUST_255,Customer_255 ,03-07-2020,Mae,,Berlin,Africa,Active
+CUST_256,Customer_256 ,07-12-2023,Other,,LONDoN,Asia,Active
+CUST_257,Customer_257 ,20-05-2023,Female,27,Tokyo,South America,Churned
+CUST_258,Customer_258 ,12-12-2020,Other,,Paris,South America,aCTiVe
+CUST_259,Customer_259 ,07-07-2021,Male,41,Berin,South America,Active
+CUST_260,Customer_260 ,04-07-2022,Male,24,Berlin,Europe,Active
+CUST_261,Customer_261 ,30-06-2023,Male,,São Paulo,South America,Active
+CUST_262,Customer_262 ,24-03-2024,Female,64,Tokyo,North America,Churned
+CUST_263,Customer_263 ,21-07-2022,Male,57,New York,SOUtH aMErICA,Churned
+CUST_264,Customer_264 ,02-12-2021,Other,,London,South America,Active
+CUST_265,Customer_265 ,13-12-2022,Female,,São Paulo,North America,Active
+CUST_266,Customer_266 ,23-11-2022,Male,,dElHI,North America,Active
+CUST_267,Customer_267 ,06-10-2023,Male,,Lodo,Asia,Active
+CUST_268,Customer_268 ,01-06-2023,Female,44,New York,South America,Churned
+CUST_269,Customer_269 ,26-03-2021,Male,42,Delhi,Europe,Active
+CUST_270,Customer_270 ,17-10-2023,Other,47,Tokyo,South America,Churned
+CUST_271,Customer_271 ,30-04-2022,oThEr,33,Berlin,Africa,Active
+CUST_272,Customer_272 ,05-11-2021,MaLE,,Tokyo,Asia,Active
+CUST_273,Customer_273 ,27-03-2020,Female,50,São Pauo,South America,Churned
+CUST_274,Customer_274 ,28-11-2020,Femae,22,London,Europe,Churned
+CUST_275,Customer_275 ,20-02-2023,Female,30,Berlin,Europe,Active
+CUST_276,Customer_276 ,11-11-2022,Female,,Paris,NOrth AmeRIcA,ChUrned
+CUST_277,Customer_277 ,05-02-2022,Other,45,loNDOn,North America,Churned
+CUST_278,Customer_278 ,03-07-2023,Female,38,Berlin,Europe,Active
+CUST_279,Customer_279 ,02-02-2024,Other,,Tokyo,Africa,Churned
+CUST_280,Customer_280 ,02-05-2020,Mal,42,São Paulo,North America,Churned
+CUST_281,Customer_281 ,23-09-2023,Male,56,paRIs,Africa,Active
+CUST_282,Customer_282 ,11-10-2024,Female,,Berlin,Asia,Actie
+CUST_283,Customer_283 ,06-06-2020,Female,46,sÃo pAuLO,Asia,Active
+CUST_284,Customer_284 ,02-12-2024,Male,45,London,South America,Churned
+CUST_285,Customer_285 ,26-07-2024,Female,,London,EuROpE,Churned
+CUST_286,Customer_286 ,21-05-2022,OtHer,49,Paris,Asia,Churned
+CUST_287,Customer_287 ,27-08-2021,Male,53,parIS,Asia,Churned
+CUST_288,Customer_288 ,08-06-2024,Male,31,London,North America,Churned
+CUST_289,Customer_289 ,03-06-2022,Other,20,São Paulo,Europe,Churned
+CUST_290,Customer_290 ,25-01-2020,FEmaLE,59,TokYo,South America,Churned
+CUST_291,Customer_291 ,15-11-2024,Male,53,Delhi,Europe,Active
+CUST_292,Customer_292 ,09-04-2020,Other,,Delhi,Europe,cHURNeD
+CUST_293,Customer_293 ,10-06-2023,Male,,São Paulo,Asia,Churned
+CUST_294,Customer_294 ,30-09-2022,Other,59,São aulo,South America,Active
+CUST_295,Customer_295 ,03-05-2022,Other,,New York,Asia,Churned
+CUST_296,Customer_296 ,16-04-2022,Male,65,Paris,Africa,Active
+CUST_297,Customer_297 ,11-09-2021,Male,49,Tokyo,Asia,Active
+CUST_298,Customer_298 ,15-05-2021,Male,,London,North America,Churned
+CUST_299,Customer_299 ,12-12-2024,Other,23,São Paulo,South America,Active
+CUST_300,Customer_300 ,04-03-2022,Male,19,Paris,eUropE,Active
+CUST_301,Customer_301 ,10-08-2020,Other,50,SÃO pAULo,Europe,Active
+CUST_302,Customer_302 ,30-05-2023,Mle,58,BerLin,South America,Active
+CUST_303,Customer_303 ,12-08-2021,Other,41,Delhi,Asia,acTIVE
+CUST_304,Customer_304 ,22-12-2023,Other,57,New York,North America,Active
+CUST_305,Customer_305 ,19-11-2023,femALE,49,São Paulo,North America,Active
+CUST_306,Customer_306 ,06-02-2024,Femle,,São Paulo,Asia,Active
+CUST_307,Customer_307 ,04-06-2022,Other,26,New York,Africa,Churned
+CUST_308,Customer_308 ,05-04-2024,Other,,Paris,Asia,Active
+CUST_309,Customer_309 ,23-05-2021,Male,,Delhi,Asia,Activ
+CUST_310,Customer_310 ,08-12-2023,OthEr,46,New York,Asia,Churned
+CUST_311,Customer_311 ,14-04-2020,Other,22,Paris,South America,Churned
+CUST_312,Customer_312 ,31-03-2021,OtHEr,,Delhi,sOUth AmErica,Churned
+CUST_313,Customer_313 ,08-01-2023,Other,,New York,South America,ctive
+CUST_314,Customer_314 ,02-09-2020,Other,35,São Paulo,Asia,Churned
+CUST_315,Customer_315 ,21-06-2021,Female,20,Paris,Europe,Active
+CUST_316,Customer_316 ,11-12-2020,Other,,Berlin,Europe,Active
+CUST_317,Customer_317 ,18-03-2021,FEMALE,,São Paulo,South America,Active
+CUST_318,Customer_318 ,20-07-2022,Male,62,São Paulo,North America,Active
+CUST_319,Customer_319 ,29-05-2023,Other,58,Delhi,North America,Churned
+CUST_320,Customer_320 ,07-07-2020,Female,,London,North America,Active
+CUST_321,Customer_321 ,10-12-2024,Male,,London,Europe,Active
+CUST_322,Customer_322 ,03-02-2023,Female,24,Tokyo,Africa,churNED
+CUST_323,Customer_323 ,23-04-2021,Male,,Paris,North America,Churned
+CUST_324,Customer_324 ,15-01-2022,Other,,Paris,Africa,Active
+CUST_325,Customer_325 ,05-11-2021,Male,,São Paulo,Asia,Actve
+CUST_326,Customer_326 ,11-03-2021,Male,36,Tokyo,South America,Active
+CUST_327,Customer_327 ,30-08-2020,Female,32,London,Africa,Churned
+CUST_328,Customer_328 ,22-03-2020,Female,52,Berlin,SoUTh aMeRica,Churned
+CUST_329,Customer_329 ,27-01-2021,fEmAle,,Paris,Asia,Churned
+CUST_330,Customer_330 ,28-12-2021,Male,,Paris,Europe,Active
+CUST_331,Customer_331 ,30-11-2020,Male,,London,noRTh aMERicA,Churned
+CUST_332,Customer_332 ,14-01-2023,Other,29,Delhi,North America,Churned
+CUST_333,Customer_333 ,10-10-2022,Female,38,Berlin,Africa,Churned
+CUST_334,Customer_334 ,17-08-2024,Other,54,Berlin,Africa,Churned
+CUST_335,Customer_335 ,19-03-2021,Other,,Paris,Europe,Churned
+CUST_336,Customer_336 ,16-12-2022,Female,,Delhi,North America,Churned
+CUST_337,Customer_337 ,15-07-2020,Female,52,Delhi,Africa,Active
+CUST_338,Customer_338 ,09-05-2020,Other,,Delhi,Europe,aCtIVe
+CUST_339,Customer_339 ,08-08-2020,Female,,Tokyo,North America,Churned
+CUST_340,Customer_340 ,05-09-2021,Female,42,New York,Euroe,Active
+CUST_341,Customer_341 ,22-03-2022,Male,54,London,Africa,CHurnEd
+CUST_342,Customer_342 ,20-05-2020,Female,51,London,Europe,chUrned
+CUST_343,Customer_343 ,07-12-2020,Other,19,Delhi,Europe,Active
+CUST_344,Customer_344 ,28-06-2021,Male,,Berlin,North America,Ative
+CUST_345,Customer_345 ,07-08-2024,Female,53,New York,AfRicA,Churned
+CUST_346,Customer_346 ,25-04-2021,Other,,tokyO,Africa,Churned
+CUST_347,Customer_347 ,29-03-2022,Female,52,Pars,Asia,CHurneD
+CUST_348,Customer_348 ,09-01-2024,Male,39,Paris,South America,Churned
+CUST_349,Customer_349 ,25-02-2023,Male,19,Delhi,Europe,Churned
+CUST_350,Customer_350 ,06-12-2020,Other,,Tokyo,NorthAmerica,Churned
+CUST_351,Customer_351 ,12-09-2021,Female,49,Berlin,South America,Churned
+CUST_352,Customer_352 ,01-03-2021,Male,,New York,Africa,Churned
+CUST_353,Customer_353 ,31-12-2021,Female,,London,North America,Active
+CUST_354,Customer_354 ,26-11-2024,Male,,London,aSia,Active
+CUST_355,Customer_355 ,02-06-2023,Female,54,Delhi,Africa,Churned
+CUST_356,Customer_356 ,29-12-2024,Male,,London,Asia,Active
+CUST_357,Customer_357 ,23-04-2020,Male,54,New Yrk,Africa,Active
+CUST_358,Customer_358 ,04-09-2020,Female,59,New York,Asia,Churned
+CUST_359,Customer_359 ,23-08-2021,fEMalE,19,Paris,Asia,Active
+CUST_360,Customer_360 ,30-10-2023,Male,,London,Asia,Churned
+CUST_361,Customer_361 ,02-08-2024,Female,52,New York,North America,Active
+CUST_362,Customer_362 ,31-01-2022,Male,,London,Africa,Churne
+CUST_363,Customer_363 ,28-03-2020,Male,,TOkyO,North merica,ChURNed
+CUST_364,Customer_364 ,02-02-2020,Male,,Nw York,Europe,Active
+CUST_365,Customer_365 ,18-01-2022,Female,,ão Paulo,South America,Active
+CUST_366,Customer_366 ,19-09-2022,Male,55,Tokyo,Asia,CHurnEd
+CUST_367,Customer_367 ,05-10-2024,Male,,São Paulo,Europe,Churned
+CUST_368,Customer_368 ,09-10-2021,Other,,New York,Europe,Active
+CUST_369,Customer_369 ,23-03-2024,Male,18,São Paulo,North America,Churned
+CUST_370,Customer_370 ,01-01-2024,Other,62,Berlin,Asia,Active
+CUST_371,Customer_371 ,11-09-2020,Other,,Berlin,Africa,Churned
+CUST_372,Customer_372 ,18-05-2021,Male,44,Pari,South America,CHuRNeD
+CUST_373,Customer_373 ,08-04-2023,Male,41,London,Africa,Active
+CUST_374,Customer_374 ,09-03-2021,Female,,Berlin,Asia,Active
+CUST_375,Customer_375 ,30-07-2023,Other,,Delhi,Africa,Churned
+CUST_376,Customer_376 ,06-10-2023,Femae,55,Berlin,South America,Active
+CUST_377,Customer_377 ,30-05-2023,Other,54,Tokyo,Africa,Active
+CUST_378,Customer_378 ,04-01-2021,Male,,New York,Asia,Active
+CUST_379,Customer_379 ,11-10-2020,Female,,Delhi,Asia,Churned
+CUST_380,Customer_380 ,09-01-2020,Male,36,New York,South America,Churned
+CUST_381,Customer_381 ,26-10-2020,Other,,Paris,North America,Active
+CUST_382,Customer_382 ,26-07-2020,OThEr,62,São Paulo,North America,Actie
+CUST_383,Customer_383 ,01-05-2022,Male,63,Delhi,South Americ,hurned
+CUST_384,Customer_384 ,10-02-2020,Male,33,Berlin,aSiA,CHURnED
+CUST_385,Customer_385 ,10-12-2022,Other,,Berlin,Europe,Active
+CUST_386,Customer_386 ,17-11-2024,Male,54,Paris,Africa,acTivE
+CUST_387,Customer_387 ,22-09-2024,fEMaLE,49,New York,South America,ACtivE
+CUST_388,Customer_388 ,22-06-2021,Male,,Paris,Asia,Active
+CUST_389,Customer_389 ,03-10-2024,Other,,London,Africa,Churned
+CUST_390,Customer_390 ,18-05-2024,Other,50,New York,euroPe,Curned
+CUST_391,Customer_391 ,12-08-2023,Other,47,São Paulo,North America,Churned
+CUST_392,Customer_392 ,13-03-2024,Other,,New York,Africa,aCtivE
+CUST_393,Customer_393 ,26-03-2022,Male,,São Paulo,Asia,Active
+CUST_394,Customer_394 ,15-05-2023,Other,,São Paulo,North America,Churned
+CUST_395,Customer_395 ,15-05-2023,Male,41,Delhi,Asia,Churned
+CUST_396,Customer_396 ,07-01-2022,Male,56,Delhi,Europe,Churned
+CUST_397,Customer_397 ,14-07-2020,Other,32,London,North America,Churned
+CUST_398,Customer_398 ,03-07-2023,FEmaLE,,Tokyo,Europe,Churned
+CUST_399,Customer_399 ,12-10-2022,Other,52,Paris,Africa,Churned
+CUST_400,Customer_400 ,06-01-2023,ther,,lONdON,South America,Churned
+CUST_401,Customer_401 ,23-06-2023,Female,,London,South America,Churned
+CUST_402,Customer_402 ,27-12-2023,Female,,Tokyo,Europe,Active
+CUST_403,Customer_403 ,20-02-2024,Male,,Berlin,Africa,Churned
+CUST_404,Customer_404 ,24-11-2024,Male,,lONdON,Africa,ctive
+CUST_405,Customer_405 ,01-11-2023,Male,,PaRiS,South America,Active
+CUST_406,Customer_406 ,26-08-2023,Other,54,London,South America,Churned
+CUST_407,Customer_407 ,12-03-2020,Male,,Delhi,South America,Churned
+CUST_408,Customer_408 ,29-07-2021,Other,38,Dlhi,Europe,Churned
+CUST_409,Customer_409 ,23-03-2020,Male,45,São Paulo,Africa,Churned
+CUST_410,Customer_410 ,05-11-2021,Male,19,Delhi,Europe,Active
+CUST_411,Customer_411 ,02-02-2023,Male,,São Palo,Africa,Active
+CUST_412,Customer_412 ,10-05-2023,Male,,Delhi,South America,Active
+CUST_413,Customer_413 ,13-07-2021,Other,,SÃO PauLo,Africa,Active
+CUST_414,Customer_414 ,25-01-2020,Female,,New York,Africa,Active
+CUST_415,Customer_415 ,12-12-2021,MAlE,,Tokyo,AFRICa,Churned
+CUST_416,Customer_416 ,05-11-2023,Other,37,Paris,Africa,Active
+CUST_417,Customer_417 ,24-11-2022,Other,,Pris,SOuth AMeRica,Churned
+CUST_418,Customer_418 ,05-08-2022,Other,28,Berlin,North America,Churned
+CUST_419,Customer_419 ,29-10-2021,Male,,Berlin,North America,Active
+CUST_420,Customer_420 ,31-07-2021,Other,,São Paulo,Europe,Churned
+CUST_421,Customer_421 ,08-07-2024,oThEr,,pArIS,North America,Churned
+CUST_422,Customer_422 ,12-08-2021,Female,,Paris,North America,Churned
+CUST_423,Customer_423 ,20-02-2021,Female,,New York,Africa,Active
+CUST_424,Customer_424 ,21-08-2022,Male,,Paris,South America,Churned
+CUST_425,Customer_425 ,30-04-2023,Female,63,Berlin,Europe,Churned
+CUST_426,Customer_426 ,21-05-2020,Other,,Berlin,frica,Churnd
+CUST_427,Customer_427 ,11-08-2024,Other,48,Paris,Asia,Churned
+CUST_428,Customer_428 ,25-07-2023,Other,,Berlin,South America,Churnd
+CUST_429,Customer_429 ,28-12-2021,Male,,Delhi,Asia,Active
+CUST_430,Customer_430 ,08-12-2023,Male,52,Tokyo,Asia,Active
+CUST_431,Customer_431 ,05-09-2022,Female,31,São Paulo,South America,Churned
+CUST_432,Customer_432 ,27-04-2022,Female,,Berlin,Africa,Active
+CUST_433,Customer_433 ,30-08-2023,Female,,New York,North America,Churned
+CUST_434,Customer_434 ,11-04-2024,Other,,LondON,North America,Ative
+CUST_435,Customer_435 ,10-12-2020,Male,,pAriS,aFriCa,Churned
+CUST_436,Customer_436 ,16-06-2022,Other,,São Paulo,Africa,Active
+CUST_437,Customer_437 ,22-09-2024,Male,59,Paris,Asia,Active
+CUST_438,Customer_438 ,05-02-2022,Other,,Delhi,Europe,Churned
+CUST_439,Customer_439 ,09-11-2021,Female,,Dehi,North America,Active
+CUST_440,Customer_440 ,27-05-2021,Female,,Pari,Africa,Active
+CUST_441,Customer_441 ,11-01-2022,Mae,22,Delhi,North America,Churned
+CUST_442,Customer_442 ,15-03-2024,Other,,Tokyo,North America,CHuRNED
+CUST_443,Customer_443 ,17-04-2024,Male,,London,souTh AmeRiCA,Active
+CUST_444,Customer_444 ,13-08-2023,Female,,Paris,Aia,ActIVe
+CUST_445,Customer_445 ,04-02-2020,Female,49,Tokyo,Europe,Active
+CUST_446,Customer_446 ,28-05-2024,Femae,63,London,nORTH ameRiCa,Churned
+CUST_447,Customer_447 ,13-04-2021,Other,44,New York,Asia,Churned
+CUST_448,Customer_448 ,28-04-2020,oTHer,26,Delhi,North America,Active
+CUST_449,Customer_449 ,01-05-2020,otHer,35,Tokyo,Asia,Active
+CUST_450,Customer_450 ,17-01-2022,Male,,Delhi,Europe,chuRnED
+CUST_451,Customer_451 ,21-11-2021,Female,,Delhi,South America,Active
+CUST_452,Customer_452 ,14-03-2022,Female,,São Paulo,Africa,Active
+CUST_453,Customer_453 ,19-01-2021,Female,,Delhi,Africa,Churned
+CUST_454,Customer_454 ,14-08-2023,Mal,23,Paris,Asia,Churned
+CUST_455,Customer_455 ,18-05-2024,Male,64,São Paulo,South America,Churned
+CUST_456,Customer_456 ,20-03-2022,Male,33,Berlin,Asia,Churned
+CUST_457,Customer_457 ,26-03-2021,Female,,New York,South America,Churned
+CUST_458,Customer_458 ,28-04-2021,Other,55,São Paulo,Asia,AcTivE
+CUST_459,Customer_459 ,24-03-2022,Female,58,New York,South America,Active
+CUST_460,Customer_460 ,28-09-2023,Female,62,Berlin,AfRIcA,Active
+CUST_461,Customer_461 ,23-03-2022,Other,52,São Paulo,asiA,Active
+CUST_462,Customer_462 ,31-03-2021,Female,63,Paris,North America,aCtIVE
+CUST_463,Customer_463 ,02-06-2022,Other,21,Berlin,North America,Curned
+CUST_464,Customer_464 ,24-12-2024,Female,57,Paris,South America,Active
+CUST_465,Customer_465 ,29-08-2023,Other,35,Berlin,North America,Active
+CUST_466,Customer_466 ,02-03-2021,Other,23,London,South America,Active
+CUST_467,Customer_467 ,08-09-2021,Female,44,São Paulo,Erope,Churned
+CUST_468,Customer_468 ,15-05-2022,FemalE,,Dehi,sia,Churned
+CUST_469,Customer_469 ,08-08-2021,Male,,São Paulo,nORTh aMErIca,Active
+CUST_470,Customer_470 ,03-10-2022,Male,,são PaulO,Europe,Active
+CUST_471,Customer_471 ,23-06-2023,Female,,London,Africa,Churned
+CUST_472,Customer_472 ,11-11-2021,Female,31,sÃo pauLO,Africa,Active
+CUST_473,Customer_473 ,12-10-2021,OtHEr,34,São Paulo,Africa,Active
+CUST_474,Customer_474 ,21-12-2020,Male,,Paris,Asia,Active
+CUST_475,Customer_475 ,09-03-2024,oTHEr,22,New York,South America,Churned
+CUST_476,Customer_476 ,27-12-2020,mAle,,Paris,Africa,Churned
+CUST_477,Customer_477 ,16-10-2024,Other,59,New York,South America,Churned
+CUST_478,Customer_478 ,12-12-2021,Female,35,Delhi,Africa,Churned
+CUST_479,Customer_479 ,01-10-2024,Female,64,São Paulo,soutH aMeRicA,CHurneD
+CUST_480,Customer_480 ,07-02-2024,Other,,London,Africa,Active
+CUST_481,Customer_481 ,29-11-2021,Male,64,Berlin,Europe,Active
+CUST_482,Customer_482 ,13-02-2022,Male,47,Tokyo,North America,Churned
+CUST_483,Customer_483 ,08-02-2022,Male,,Berlin,Africa,Active
+CUST_484,Customer_484 ,25-12-2023,Other,,Lndn,North America,Active
+CUST_485,Customer_485 ,07-07-2021,Female,,Tokyo,Asia,Churned
+CUST_486,Customer_486 ,29-08-2023,Male,,New York,Africa,Active
+CUST_487,Customer_487 ,24-09-2023,Other,49,London,North America,Churned
+CUST_488,Customer_488 ,17-10-2024,Other,,dELHI,South America,Churned
+CUST_489,Customer_489 ,23-01-2023,Other,59,New York,North America,Active
+CUST_490,Customer_490 ,26-07-2023,Other,,Berlin,Africa,ACtiVE
+CUST_491,Customer_491 ,13-12-2023,Female,,São Paulo,Africa,Active
+CUST_492,Customer_492 ,01-04-2021,Female,39,New York,Asia,Churned
+CUST_493,Customer_493 ,27-02-2020,Male,39,Delhi,Europe,ActIvE
+CUST_494,Customer_494 ,30-06-2020,Other,,Tokyo,Euope,Churned
+CUST_495,Customer_495 ,05-05-2024,Other,40,Berlin,South America,Active
+CUST_496,Customer_496 ,04-12-2021,Other,,London,North America,Active
+CUST_497,Customer_497 ,18-02-2023,Male,,Delhi,noRTH AMEriCA,Churned
+CUST_498,Customer_498 ,15-01-2021,Male,,Paris,North America,Churned
+CUST_499,Customer_499 ,11-02-2023,Other,,São Paulo,Europe,Churned
+CUST_500,Customer_500 ,23-10-2022,Male,20,São pAUlO,Europe,Churned
+CUST_501,Customer_501 ,11-11-2022,Female,,Berlin,Asia,Active
+CUST_502,Customer_502 ,17-06-2024,Male,,Tokyo,South America,cHuRNeD
+CUST_503,Customer_503 ,07-06-2020,feMAle,,London,South America,Active
+CUST_504,Customer_504 ,17-06-2020,Male,53,New York,North America,Churned
+CUST_505,Customer_505 ,24-09-2022,Other,30,London,Europe,Active
+CUST_506,Customer_506 ,03-07-2023,Male,,São Paulo,Africa,Chrned
+CUST_507,Customer_507 ,10-05-2021,fEMALE,,Tokyo,South America,Active
+CUST_508,Customer_508 ,06-02-2024,Other,56,Paris,North America,Active
+CUST_509,Customer_509 ,11-02-2022,Female,,New York,North America,ActIve
+CUST_510,Customer_510 ,13-10-2020,Male,52,Tokyo,Africa,Churned
+CUST_511,Customer_511 ,27-04-2022,Female,45,Paris,Africa,Active
+CUST_512,Customer_512 ,10-09-2023,Other,54,New York,South America,Churned
+CUST_513,Customer_513 ,17-07-2020,Female,,Paris,Asia,Churned
+CUST_514,Customer_514 ,06-01-2023,Other,18,Paris,Africa,Churned
+CUST_515,Customer_515 ,30-09-2020,Female,38,Paris,Europe,Churned
+CUST_516,Customer_516 ,29-08-2022,Male,25,londOn,North America,Churned
+CUST_517,Customer_517 ,12-01-2021,Other,46,Berlin,Asia,Churned
+CUST_518,Customer_518 ,21-04-2021,maLe,45,São Paulo,Asia,Active
+CUST_519,Customer_519 ,17-04-2022,Female,,okyo,Africa,Churned
+CUST_520,Customer_520 ,07-07-2021,Other,30,London,North America,Churned
+CUST_521,Customer_521 ,15-05-2023,Other,52,Delhi,Europe,Churned
+CUST_522,Customer_522 ,30-04-2024,Female,40,London,Africa,Active
+CUST_523,Customer_523 ,09-11-2020,Other,,Berlin,North America,churNEd
+CUST_524,Customer_524 ,08-04-2024,Other,46,São Paulo,Europe,Active
+CUST_525,Customer_525 ,15-07-2021,Female,28,London,orth America,Active
+CUST_526,Customer_526 ,11-05-2023,MalE,,São Paulo,Europe,Churned
+CUST_527,Customer_527 ,11-06-2022,Male,37,London,Africa,Churned
+CUST_528,Customer_528 ,19-07-2023,Female,24,Delhi,Europe,Churned
+CUST_529,Customer_529 ,08-02-2022,Male,,Delhi,South America,Churned
+CUST_530,Customer_530 ,11-01-2023,Female,28,Tokyo,South America,Activ
+CUST_531,Customer_531 ,01-04-2023,Male,,London,eUROpe,Churned
+CUST_532,Customer_532 ,06-09-2022,Other,41,Berlin,Africa,Active
+CUST_533,Customer_533 ,18-08-2021,Female,,London,NOrTH amEriCA,Churned
+CUST_534,Customer_534 ,04-11-2021,Other,,Berlin,North America,Active
+CUST_535,Customer_535 ,25-09-2021,Male,46,Tokyo,South America,Churned
+CUST_536,Customer_536 ,11-08-2020,Other,58,Tokyo,North America,Active
+CUST_537,Customer_537 ,16-02-2022,Other,47,Delhi,South America,Active
+CUST_538,Customer_538 ,19-12-2021,Other,60,Paris,AFRICA,Churned
+CUST_539,Customer_539 ,08-07-2022,Other,64,Berlin,South America,Active
+CUST_540,Customer_540 ,01-11-2020,Female,,New York,Europe,Active
+CUST_541,Customer_541 ,15-09-2023,Other,,London,AfRicA,Active
+CUST_542,Customer_542 ,02-10-2020,Female,55,New York,Asia,Churned
+CUST_543,Customer_543 ,13-08-2022,Male,64,New York,Asia,Churned
+CUST_544,Customer_544 ,16-09-2020,Male,,New York,Asia,Churned
+CUST_545,Customer_545 ,25-05-2024,Other,55,Delhi,Asia,Churned
+CUST_546,Customer_546 ,24-02-2022,Other,,London,North America,Churnd
+CUST_547,Customer_547 ,31-05-2020,othEr,18,New York,North America,Churned
+CUST_548,Customer_548 ,03-10-2022,Male,56,Tokyo,Aia,Active
+CUST_549,Customer_549 ,30-04-2023,Female,,London,Euope,Churnd
+CUST_550,Customer_550 ,21-03-2021,Female,,São Paulo,Europe,Churned
+CUST_551,Customer_551 ,13-11-2024,Other,,New Yrk,South America,Churned
+CUST_552,Customer_552 ,17-04-2020,Female,35,Paris,Africa,Churned
+CUST_553,Customer_553 ,31-05-2020,Male,21,São pAulo,North America,Active
+CUST_554,Customer_554 ,11-01-2020,Other,38,London,North America,Churned
+CUST_555,Customer_555 ,03-12-2023,Female,,São Paulo,North America,Churned
+CUST_556,Customer_556 ,25-06-2022,Other,,New York,Asia,Active
+CUST_557,Customer_557 ,11-01-2022,Male,55,São Paulo,Asia,ChUrNed
+CUST_558,Customer_558 ,20-04-2023,Male,,São Paulo,SOUtH aMerICA,Churned
+CUST_559,Customer_559 ,01-08-2021,Male,,new York,Europe,Churned
+CUST_560,Customer_560 ,08-11-2021,Male,,Delhi,Europe,CHURNed
+CUST_561,Customer_561 ,05-04-2021,Male,28,Delhi,Asia,Active
+CUST_562,Customer_562 ,03-09-2023,Male,57,São Palo,North America,Active
+CUST_563,Customer_563 ,12-06-2021,Other,25,Tokyo,North America,Churned
+CUST_564,Customer_564 ,13-03-2022,Oter,42,sãO Paulo,Africa,Active
+CUST_565,Customer_565 ,04-06-2024,Other,53,São Paulo,South America,Churned
+CUST_566,Customer_566 ,28-07-2024,fEMAlE,29,Delhi,Asia,Active
+CUST_567,Customer_567 ,15-07-2024,Other,,New York,South America,Churned
+CUST_568,Customer_568 ,12-09-2020,Male,64,São Paulo,Asia,Active
+CUST_569,Customer_569 ,22-08-2020,Female,,Tokyo,Africa,Churned
+CUST_570,Customer_570 ,16-12-2021,Female,57,London,North America,Active
+CUST_571,Customer_571 ,04-04-2022,FEMALe,52,London,Europe,Active
+CUST_572,Customer_572 ,07-06-2022,Male,58,Berlin,Africa,Active
+CUST_573,Customer_573 ,01-09-2021,Male,33,São Paulo,Europe,Active
+CUST_574,Customer_574 ,22-07-2022,Female,18,Delhi,Europe,Active
+CUST_575,Customer_575 ,31-05-2021,Male,,Delhi,Africa,Active
+CUST_576,Customer_576 ,07-09-2023,Male,,London,Africa,ACtivE
+CUST_577,Customer_577 ,04-06-2024,Other,,Berlin,Asia,chuRnED
+CUST_578,Customer_578 ,30-03-2023,Other,18,NeW yORK,Africa,Curned
+CUST_579,Customer_579 ,16-02-2021,Female,55,London,Africa,Churned
+CUST_580,Customer_580 ,22-04-2023,Female,,Lonon,South America,Churned
+CUST_581,Customer_581 ,20-07-2021,Male,,Berlin,North America,Active
+CUST_582,Customer_582 ,01-02-2024,Female,,Berlin,South America,Churned
+CUST_583,Customer_583 ,11-08-2021,Female,56,New York,aSiA,Churned
+CUST_584,Customer_584 ,08-10-2024,Female,22,Berlin,Africa,aCtIVE
+CUST_585,Customer_585 ,01-03-2021,Male,,Berlin,Africa,Active
+CUST_586,Customer_586 ,21-10-2022,Male,,Paris,Europe,Churned
+CUST_587,Customer_587 ,09-07-2021,Femle,56,São Paulo,Africa,ActiVe
+CUST_588,Customer_588 ,06-07-2022,Male,,São Paulo,North America,Churned
+CUST_589,Customer_589 ,14-07-2023,Male,63,New York,Asia,Chrned
+CUST_590,Customer_590 ,08-02-2023,Female,58,Paris,Africa,Churned
+CUST_591,Customer_591 ,25-09-2021,Female,,sÃo PAulO,Arica,Active
+CUST_592,Customer_592 ,25-09-2022,Other,,New York,South America,Active
+CUST_593,Customer_593 ,24-12-2024,Other,53,Tokyo,Africa,Churned
+CUST_594,Customer_594 ,06-10-2024,Male,,London,Africa,Active
+CUST_595,Customer_595 ,29-01-2024,Other,55,Tokyo,eUroPE,Active
+CUST_596,Customer_596 ,09-04-2021,Other,,Delhi,Asia,ACtIvE
+CUST_597,Customer_597 ,06-03-2021,Other,,LonDON,North America,Churned
+CUST_598,Customer_598 ,29-05-2021,OtHEr,,Delhi,Africa,Active
+CUST_599,Customer_599 ,08-07-2020,Male,62,Berlin,Europe,Churned
+CUST_600,Customer_600 ,24-04-2021,Male,,BErLiN,North America,Active
+CUST_601,Customer_601 ,15-02-2024,Male,,Paris,Asia,Active
+CUST_602,Customer_602 ,04-12-2022,Female,,Berlin,North America,Churned
+CUST_603,Customer_603 ,15-01-2020,Female,45,São Paulo,South America,Churned
+CUST_604,Customer_604 ,03-08-2023,Male,,Delhi,Europe,Active
+CUST_605,Customer_605 ,03-11-2023,Female,,São Paulo,North America,Active
+CUST_606,Customer_606 ,20-07-2024,Other,18,Delhi,Europe,Churned
+CUST_607,Customer_607 ,22-10-2022,Other,37,Paris,North America,active
+CUST_608,Customer_608 ,19-06-2024,oTHeR,28,Paris,Europe,Chrned
+CUST_609,Customer_609 ,08-03-2020,Male,,Delhi,South America,Churned
+CUST_610,Customer_610 ,29-08-2024,Other,,Paris,Europe,Active
+CUST_611,Customer_611 ,04-08-2022,Female,,Paris,aSia,Active
+CUST_612,Customer_612 ,06-03-2020,Other,65,LoNdoN,South America,Churned
+CUST_613,Customer_613 ,07-04-2020,Other,,Tokyo,AsIA,Active
+CUST_614,Customer_614 ,18-09-2020,Other,,elhi,Europe,Churned
+CUST_615,Customer_615 ,04-10-2022,Male,44,São Paulo,Europe,Active
+CUST_616,Customer_616 ,26-11-2023,Female,35,Berlin,Europ,churneD
+CUST_617,Customer_617 ,25-08-2023,Other,,London,Africa,Churned
+CUST_618,Customer_618 ,27-10-2020,Male,,London,Europe,Active
+CUST_619,Customer_619 ,13-08-2021,MAle,47,Delhi,Asia,Churned
+CUST_620,Customer_620 ,17-01-2020,Female,26,Delhi,South America,Churned
+CUST_621,Customer_621 ,03-10-2021,Other,45,São Paulo,Africa,Churned
+CUST_622,Customer_622 ,16-03-2024,Female,37,Berlin,Asia,Churned
+CUST_623,Customer_623 ,07-10-2024,Male,,Delhi,Europe,Churned
+CUST_624,Customer_624 ,27-05-2023,Female,,Tokyo,Asia,Churned
+CUST_625,Customer_625 ,30-10-2020,MALe,,Berlin,Asia,Churned
+CUST_626,Customer_626 ,13-12-2022,Female,37,Tokyo,NOrTh AmERiCA,Churned
+CUST_627,Customer_627 ,11-04-2020,Male,,São Paulo,Europe,Active
+CUST_628,Customer_628 ,04-10-2020,Female,,São Paulo,Europe,Active
+CUST_629,Customer_629 ,19-08-2021,Other,,Berlin,North America,Churned
+CUST_630,Customer_630 ,08-09-2021,Female,29,London,North America,Active
+CUST_631,Customer_631 ,15-01-2023,Male,,London,Europe,Churned
+CUST_632,Customer_632 ,24-11-2022,Male,19,Delhi,North America,Churned
+CUST_633,Customer_633 ,12-02-2020,Male,,Tokyo,North America,Active
+CUST_634,Customer_634 ,09-12-2020,Male,,São Paulo,North America,Churned
+CUST_635,Customer_635 ,01-05-2024,Male,,Tokyo,North America,Churned
+CUST_636,Customer_636 ,15-09-2020,Female,,New York,Africa,Churned
+CUST_637,Customer_637 ,28-12-2023,Female,58,São PaUlo,Asia,Active
+CUST_638,Customer_638 ,18-04-2023,ale,36,Delhi,North America,Churned
+CUST_639,Customer_639 ,06-12-2023,Other,29,London,afrIcA,Churned
+CUST_640,Customer_640 ,18-09-2022,Other,,London,Europe,Active
+CUST_641,Customer_641 ,27-10-2023,Male,,Tokyo,Africa,Churned
+CUST_642,Customer_642 ,08-02-2020,oTher,49,Berlin,Europe,chuRned
+CUST_643,Customer_643 ,20-09-2024,Male,31,London,Asia,Active
+CUST_644,Customer_644 ,24-08-2021,Other,30,London,Europe,Churned
+CUST_645,Customer_645 ,23-09-2022,Male,64,São Paulo,Asia,Active
+CUST_646,Customer_646 ,22-01-2022,Female,,dELHi,norTh aMErIcA,Active
+CUST_647,Customer_647 ,07-02-2021,Female,,Berlin,Africa,Churned
+CUST_648,Customer_648 ,22-11-2024,Female,20,Paris,Europe,Curned
+CUST_649,Customer_649 ,25-04-2021,Male,,New yoRk,North America,Churned
+CUST_650,Customer_650 ,20-08-2022,Male,,Delhi,Europe,Active
+CUST_651,Customer_651 ,07-04-2024,Other,,Berlin,Africa,Active
+CUST_652,Customer_652 ,17-07-2023,Male,,New York,Africa,Churned
+CUST_653,Customer_653 ,26-12-2022,Female,,São Paulo,Asia,Active
+CUST_654,Customer_654 ,20-08-2021,Male,,São Paulo,Europe,Churned
+CUST_655,Customer_655 ,26-06-2020,FeMAlE,39,Paris,North America,Churned
+CUST_656,Customer_656 ,18-11-2024,Male,58,London,Europe,Active
+CUST_657,Customer_657 ,20-05-2024,Male,,São Paulo,South America,Active
+CUST_658,Customer_658 ,27-07-2021,Male,,Berlin,Africa,Churned
+CUST_659,Customer_659 ,11-12-2020,Other,22,London,afrICA,Churned
+CUST_660,Customer_660 ,14-04-2022,Other,61,London,aSIA,Churned
+CUST_661,Customer_661 ,05-03-2020,Other,,Delhi,Europe,Churned
+CUST_662,Customer_662 ,06-12-2020,Male,58,Paris,Asia,Active
+CUST_663,Customer_663 ,04-03-2023,ale,48,London,Africa,Active
+CUST_664,Customer_664 ,02-05-2020,Male,19,lOndOn,AFrIcA,Active
+CUST_665,Customer_665 ,03-09-2024,Female,57,DeLHI,soUth AMeRicA,aCTiVE
+CUST_666,Customer_666 ,22-03-2021,Other,,New York,South America,Active
+CUST_667,Customer_667 ,25-06-2024,Female,33,São Paulo,aFriCA,Churned
+CUST_668,Customer_668 ,24-03-2020,Female,56,LONdon,North America,Churned
+CUST_669,Customer_669 ,24-02-2021,Male,34,Paris,Africa,Churned
+CUST_670,Customer_670 ,25-01-2023,Female,,Delhi,Africa,Active
+CUST_671,Customer_671 ,20-06-2024,Female,,London,Asia,Active
+CUST_672,Customer_672 ,14-12-2021,Female,43,São Paulo,South America,Churned
+CUST_673,Customer_673 ,28-02-2021,Other,,Tokyo,South America,Active
+CUST_674,Customer_674 ,23-02-2021,Other,,Berlin,North America,Churned
+CUST_675,Customer_675 ,20-06-2023,Female,,Ne York,Africa,Active
+CUST_676,Customer_676 ,15-09-2022,Other,,Paris,Europe,CHuRneD
+CUST_677,Customer_677 ,05-08-2021,Male,,New York,Africa,Churned
+CUST_678,Customer_678 ,24-05-2021,Male,,Tokyo,South America,Churned
+CUST_679,Customer_679 ,07-05-2021,Female,,Paris,North America,CHURNeD
+CUST_680,Customer_680 ,09-08-2020,Other,,PAriS,Europe,Active
+CUST_681,Customer_681 ,17-09-2021,Other,29,Delhi,Asia,Active
+CUST_682,Customer_682 ,10-09-2022,Other,,Berlin,North America,Churned
+CUST_683,Customer_683 ,10-03-2020,Other,50,Berlin,South America,Active
+CUST_684,Customer_684 ,09-11-2023,Other,,London,Europe,Churned
+CUST_685,Customer_685 ,05-12-2024,Female,,São Paulo,North America,Churned
+CUST_686,Customer_686 ,01-09-2020,Other,,São Paulo,EUrOPE,Churned
+CUST_687,Customer_687 ,16-04-2023,Other,,São Paulo,Noth Ameica,Churned
+CUST_688,Customer_688 ,20-02-2022,ale,53,Berlin,South America,Active
+CUST_689,Customer_689 ,28-07-2022,Female,,Delhi,Africa,Churned
+CUST_690,Customer_690 ,18-01-2021,Male,54,London,Europe,cHUrNed
+CUST_691,Customer_691 ,19-06-2024,Othe,30,Delhi,Africa,Active
+CUST_692,Customer_692 ,05-12-2024,Other,65,aris,North America,Active
+CUST_693,Customer_693 ,21-09-2021,Mae,55,London,Asia,Churned
+CUST_694,Customer_694 ,30-07-2021,Female,57,São Paulo,Asia,Churned
+CUST_695,Customer_695 ,10-04-2020,Other,22,Tokyo,sia,Churned
+CUST_696,Customer_696 ,06-11-2022,Male,,Tokyo,Asia,Active
+CUST_697,Customer_697 ,20-02-2023,Male,,Tokyo,North America,Churned
+CUST_698,Customer_698 ,28-12-2023,Other,,Tokyo,Africa,Churned
+CUST_699,Customer_699 ,09-01-2021,Other,35,Paris,Africa,cHuRneD
+CUST_700,Customer_700 ,24-06-2021,Other,64,New York,Europe,Churned
+CUST_701,Customer_701 ,17-08-2024,Other,,Delhi,Asia,Churned
+CUST_702,Customer_702 ,08-10-2020,OThER,,São Paulo,Asia,Churned
+CUST_703,Customer_703 ,03-03-2021,Female,,Delhi,souTH amErICa,Active
+CUST_704,Customer_704 ,22-03-2023,Female,57,Berlin,Europe,Active
+CUST_705,Customer_705 ,24-02-2022,Female,25,Paris,Euroe,ACtivE
+CUST_706,Customer_706 ,16-08-2024,Other,,Toko,North America,Active
+CUST_707,Customer_707 ,04-06-2024,Female,,Paris,South Americ,Chrned
+CUST_708,Customer_708 ,06-02-2022,Other,53,Pais,Africa,Active
+CUST_709,Customer_709 ,06-01-2022,Female,,Paris,Europe,ACTive
+CUST_710,Customer_710 ,04-08-2020,mALE,,London,Asia,Churned
+CUST_711,Customer_711 ,06-08-2024,Other,49,London,Africa,Churned
+CUST_712,Customer_712 ,25-03-2023,Male,64,London,Asia,Active
+CUST_713,Customer_713 ,30-09-2024,Other,56,Delhi,Europe,CHuRNeD
+CUST_714,Customer_714 ,02-10-2023,Male,,Tokyo,North America,Active
+CUST_715,Customer_715 ,28-08-2024,Other,56,Berlin,North America,Churned
+CUST_716,Customer_716 ,03-10-2024,Other,,Berlin,Asia,Active
+CUST_717,Customer_717 ,29-11-2022,Male,47,Berlin,North Amrica,CHURnEd
+CUST_718,Customer_718 ,28-08-2023,Male,49,New York,South America,Churned
+CUST_719,Customer_719 ,04-01-2022,Male,27,New York,NoRTh AmeRIcA,Active
+CUST_720,Customer_720 ,20-07-2023,Female,58,Tokyo,Africa,Active
+CUST_721,Customer_721 ,14-07-2021,Female,,Paris,South America,Active
+CUST_722,Customer_722 ,05-08-2020,Other,33,São PaUlO,Afrca,Active
+CUST_723,Customer_723 ,13-03-2022,Other,,New York,Africa,Active
+CUST_724,Customer_724 ,11-08-2023,Other,21,Berlin,Europe,Actie
+CUST_725,Customer_725 ,14-02-2021,Female,,Tokyo,Asia,aCTiVE
+CUST_726,Customer_726 ,15-06-2022,Other,52,Delhi,NOrth AMEricA,Churned
+CUST_727,Customer_727 ,01-10-2022,Female,41,New York,Africa,Active
+CUST_728,Customer_728 ,10-10-2023,Female,51,Berlin,Asia,Churned
+CUST_729,Customer_729 ,06-06-2023,Other,21,Tokyo,Asia,Churned
+CUST_730,Customer_730 ,27-12-2023,malE,,Paris,Africa,Active
+CUST_731,Customer_731 ,19-07-2022,Other,,Berlin,ASiA,Active
+CUST_732,Customer_732 ,17-03-2021,Male,,New York,Europe,Active
+CUST_733,Customer_733 ,05-01-2023,Male,,New York,South America,Active
+CUST_734,Customer_734 ,26-09-2022,Other,,London,Europe,CHURnEd
+CUST_735,Customer_735 ,14-04-2020,Other,33,Paris,North America,Churned
+CUST_736,Customer_736 ,31-08-2020,Male,59,Tokyo,Africa,Churned
+CUST_737,Customer_737 ,05-02-2024,Female,36,Paris,Europe,Active
+CUST_738,Customer_738 ,03-03-2023,Male,63,São Pauo,South America,Active
+CUST_739,Customer_739 ,23-11-2023,Male,44,São Paulo,South America,ChurneD
+CUST_740,Customer_740 ,16-12-2022,Female,,São Paulo,Asia,Active
+CUST_741,Customer_741 ,17-08-2024,maLE,,Dlhi,AsIA,Churned
+CUST_742,Customer_742 ,02-04-2023,Mle,42,Delhi,Africa,Churned
+CUST_743,Customer_743 ,12-03-2024,Other,,Delhi,Africa,Churned
+CUST_744,Customer_744 ,07-08-2024,OThER,,New York,North America,Active
+CUST_745,Customer_745 ,29-10-2020,Female,20,São Paulo,Europe,ChURned
+CUST_746,Customer_746 ,06-10-2023,Male,18,Paris,South America,Active
+CUST_747,Customer_747 ,10-07-2021,Male,49,New York,South America,Churned
+CUST_748,Customer_748 ,08-10-2020,Female,,Paris,orth America,Active
+CUST_749,Customer_749 ,18-01-2023,Other,,Paris,South America,Active
+CUST_750,Customer_750 ,19-06-2023,Male,53,Tokyo,South America,Churned
+CUST_751,Customer_751 ,04-12-2023,Male,,Tokyo,Asia,ACTiVE
+CUST_752,Customer_752 ,24-05-2021,OtHeR,,Berlin,South America,churNED
+CUST_753,Customer_753 ,16-05-2023,oTHer,62,São Paulo,North America,Churned
+CUST_754,Customer_754 ,14-04-2022,Female,28,São Paulo,Africa,Churned
+CUST_755,Customer_755 ,19-02-2023,Male,55,Paris,Asia,Active
+CUST_756,Customer_756 ,26-06-2023,Male,20,São Paulo,South America,Churned
+CUST_757,Customer_757 ,03-12-2024,Male,63,São Paulo,Europe,Active
+CUST_758,Customer_758 ,02-04-2023,mALe,,Delhi,North America,Churned
+CUST_759,Customer_759 ,09-07-2023,Female,36,New York,South America,Churned
+CUST_760,Customer_760 ,23-06-2021,Male,,Berlin,North America,Churned
+CUST_761,Customer_761 ,28-11-2024,Other,27,São Paulo,Africa,Acive
+CUST_762,Customer_762 ,01-09-2023,Female,,London,Asia,Active
+CUST_763,Customer_763 ,11-10-2020,Male,,Paris,South America,Active
+CUST_764,Customer_764 ,10-05-2020,Male,62,Tokyo,North America,Churned
+CUST_765,Customer_765 ,19-04-2022,Other,22,Tokyo,South America,Active
+CUST_766,Customer_766 ,14-06-2023,Male,,Paris,South America,Active
+CUST_767,Customer_767 ,05-10-2021,Other,42,São Paulo,Aia,Active
+CUST_768,Customer_768 ,28-09-2022,Other,,Berlin,Europe,Actve
+CUST_769,Customer_769 ,28-12-2022,Female,,Tokyo,Africa,Active
+CUST_770,Customer_770 ,07-12-2021,Male,65,Tokyo,NoRTH aMerICa,Active
+CUST_771,Customer_771 ,24-04-2023,Female,62,London,Africa,Active
+CUST_772,Customer_772 ,29-08-2024,Male,55,New York,South America,Active
+CUST_773,Customer_773 ,05-04-2024,Female,54,São Paulo,South America,Churned
+CUST_774,Customer_774 ,05-11-2024,Other,55,São Paulo,Africa,Active
+CUST_775,Customer_775 ,03-07-2023,Male,,New York,South America,Active
+CUST_776,Customer_776 ,28-09-2021,Male,60,Tokyo,Africa,Churned
+CUST_777,Customer_777 ,08-05-2022,Female,,Delhi,South America,Churned
+CUST_778,Customer_778 ,26-07-2024,Female,43,New York,Asia,Churned
+CUST_779,Customer_779 ,09-12-2021,Male,,São Paulo,Africa,Active
+CUST_780,Customer_780 ,04-07-2021,FEMaLe,,São Paulo,Asia,Active
+CUST_781,Customer_781 ,26-05-2021,Fmal,,São Paulo,Africa,Active
+CUST_782,Customer_782 ,15-02-2021,Other,24,Delhi,South America,Activ
+CUST_783,Customer_783 ,15-04-2024,Other,,Berlin,South America,Churned
+CUST_784,Customer_784 ,31-03-2022,Female,57,Tokyo,Europe,Churned
+CUST_785,Customer_785 ,22-08-2020,Other,37,Tokyo,North America,Churned
+CUST_786,Customer_786 ,02-10-2024,Male,,Tokyo,Europe,Active
+CUST_787,Customer_787 ,06-11-2024,Female,54,Berlin,North America,Active
+CUST_788,Customer_788 ,14-03-2022,otheR,,Tokyo,Africa,Active
+CUST_789,Customer_789 ,11-09-2021,MaLe,,Berlin,soutH AmerICA,Active
+CUST_790,Customer_790 ,25-06-2023,Other,53,Berlin,Asia,cHuRNED
+CUST_791,Customer_791 ,04-09-2024,Male,,Paris,Europe,Churned
+CUST_792,Customer_792 ,21-05-2020,Female,,Paris,Asia,Churned
+CUST_793,Customer_793 ,03-12-2023,Other,38,New York,Asia,Active
+CUST_794,Customer_794 ,23-02-2024,Other,54,dElHI,North America,aCtiVe
+CUST_795,Customer_795 ,15-10-2020,oThER,49,New York,Africa,Churned
+CUST_796,Customer_796 ,24-12-2023,Other,,Delhi,Europe,Active
+CUST_797,Customer_797 ,06-04-2023,Oher,,Tokyo,North America,Churned
+CUST_798,Customer_798 ,02-07-2023,Other,59,Delhi,South America,ACTIve
+CUST_799,Customer_799 ,02-09-2023,Female,,New York,urope,Active
+CUST_800,Customer_800 ,17-06-2023,Other,56,BerLIn,South America,Churned
+CUST_801,Customer_801 ,05-03-2022,Other,,Berlin,South America,Active
+CUST_802,Customer_802 ,24-11-2021,Male,,Delhi,Asia,Active
+CUST_803,Customer_803 ,14-11-2021,Female,19,Tokyo,South America,Churned
+CUST_804,Customer_804 ,29-11-2021,Other,,São Paulo,Afric,Active
+CUST_805,Customer_805 ,11-04-2022,Other,30,Delhi,North America,Active
+CUST_806,Customer_806 ,16-04-2020,Other,33,Paris,AfRica,Chuned
+CUST_807,Customer_807 ,07-01-2023,Male,62,São Paulo,Africa,acTIvE
+CUST_808,Customer_808 ,02-08-2024,Female,34,São Paulo,North America,acTIvE
+CUST_809,Customer_809 ,09-11-2022,Female,,Delhi,Africa,Active
+CUST_810,Customer_810 ,12-08-2023,Male,,Berlin,Africa,Active
+CUST_811,Customer_811 ,11-11-2022,other,48,Delh,North America,Churned
+CUST_812,Customer_812 ,29-03-2021,Other,,lONdON,Asia,Churned
+CUST_813,Customer_813 ,30-06-2023,femALe,47,Tokyo,Aia,Churned
+CUST_814,Customer_814 ,07-03-2020,Male,,Tokyo,Africa,Churned
+CUST_815,Customer_815 ,27-06-2024,OTheR,,New York,Asia,Churned
+CUST_816,Customer_816 ,24-10-2021,Male,,Delhi,Europe,Churned
+CUST_817,Customer_817 ,23-11-2021,Female,,London,Europe,Churned
+CUST_818,Customer_818 ,21-04-2022,Male,23,Paris,Africa,chUrNeD
+CUST_819,Customer_819 ,22-11-2020,Female,,London,afriCa,Churned
+CUST_820,Customer_820 ,10-10-2022,Other,,tOKYo,NOrTh AMErIca,Churned
+CUST_821,Customer_821 ,19-03-2021,Female,32,Berlin,Europe,Actie
+CUST_822,Customer_822 ,04-10-2023,Male,40,Berlin,South America,Churned
+CUST_823,Customer_823 ,12-05-2020,Female,,Tokyo,North America,Churned
+CUST_824,Customer_824 ,14-08-2022,Male,54,Tokyo,Asia,Active
+CUST_825,Customer_825 ,24-02-2024,Female,,São Paulo,Asia,Churned
+CUST_826,Customer_826 ,14-09-2021,Female,,Berlin,North America,Active
+CUST_827,Customer_827 ,12-08-2023,Male,,Berlin,North America,ctive
+CUST_828,Customer_828 ,16-05-2024,Male,,Tokyo,Africa,Active
+CUST_829,Customer_829 ,11-06-2024,Other,,São Paulo,Asia,Churned
+CUST_830,Customer_830 ,16-08-2021,Female,,Berlin,South America,Active
+CUST_831,Customer_831 ,18-11-2024,Male,,Paris,Asia,Churned
+CUST_832,Customer_832 ,05-01-2023,Other,,São Paulo,North America,Churned
+CUST_833,Customer_833 ,30-09-2024,Female,,New York,Europe,Active
+CUST_834,Customer_834 ,09-12-2024,Female,29,Paris,North America,Churned
+CUST_835,Customer_835 ,28-06-2023,Female,46,London,South ameRicA,cHurnED
+CUST_836,Customer_836 ,30-03-2024,Other,29,Tokyo,North America,Churned
+CUST_837,Customer_837 ,06-07-2024,Female,,Delhi,Africa,hurned
+CUST_838,Customer_838 ,22-07-2021,MaLE,60,Paris,South America,ChUrNed
+CUST_839,Customer_839 ,26-09-2020,Female,,Tokyo,North America,Active
+CUST_840,Customer_840 ,14-11-2022,Female,52,SãO PAulO,Asia,Active
+CUST_841,Customer_841 ,13-12-2023,Other,,São Paulo,North America,Churned
+CUST_842,Customer_842 ,21-11-2020,fEmALe,30,São Paulo,North America,Active
+CUST_843,Customer_843 ,09-02-2021,Male,,Berlin,Africa,Active
+CUST_844,Customer_844 ,30-11-2024,Male,18,Delhi,South America,Churned
+CUST_845,Customer_845 ,02-11-2023,Male,59,Berlin,Africa,Churned
+CUST_846,Customer_846 ,21-09-2022,Other,54,Delhi,Asa,Active
+CUST_847,Customer_847 ,16-09-2021,Male,,London,Asia,Active
+CUST_848,Customer_848 ,28-06-2022,Male,,Tokyo,North America,aCTiVe
+CUST_849,Customer_849 ,08-12-2020,Female,,São Paulo,South America,Churned
+CUST_850,Customer_850 ,17-11-2020,Male,,Berlin,Europe,Churned
+CUST_851,Customer_851 ,20-05-2022,Female,40,Berlin,Asia,Active
+CUST_852,Customer_852 ,02-11-2022,Male,54,Tokyo,Africa,Churned
+CUST_853,Customer_853 ,14-08-2022,Male,,New York,South America,Active
+CUST_854,Customer_854 ,28-10-2024,Other,21,London,South America,Churned
+CUST_855,Customer_855 ,23-03-2022,Other,,São Paulo,Europe,Churned
+CUST_856,Customer_856 ,19-01-2023,fEmALE,36,Paris,North America,Churned
+CUST_857,Customer_857 ,08-04-2020,FEmALE,,Tokyo,Afica,Active
+CUST_858,Customer_858 ,21-10-2021,Other,62,Lndn,South America,Active
+CUST_859,Customer_859 ,03-11-2023,Female,,São Paulo,North America,Active
+CUST_860,Customer_860 ,20-10-2022,Male,27,London,Africa,Churned
+CUST_861,Customer_861 ,10-05-2022,Male,23,Paris,South America,Active
+CUST_862,Customer_862 ,16-12-2020,Other,,Delhi,South America,cHUrNED
+CUST_863,Customer_863 ,01-02-2024,Male,,Delhi,Asia,Churned
+CUST_864,Customer_864 ,26-07-2022,Female,34,São Paulo,eUROpE,Churned
+CUST_865,Customer_865 ,24-04-2022,Other,63,New York,Eurpe,Churned
+CUST_866,Customer_866 ,17-03-2021,Male,40,Tokyo,South America,Churned
+CUST_867,Customer_867 ,23-05-2020,Other,,Paris,Europe,Churned
+CUST_868,Customer_868 ,15-07-2024,femALE,,São Paulo,North America,Churned
+CUST_869,Customer_869 ,11-02-2021,Male,25,New York,South America,Churned
+CUST_870,Customer_870 ,18-03-2023,OtHeR,,Delhi,Asia,Churned
+CUST_871,Customer_871 ,05-01-2022,Other,64,Tokyo,AFRICa,Actve
+CUST_872,Customer_872 ,03-08-2020,Female,,bErLin,noRth AMericA,Active
+CUST_873,Customer_873 ,06-08-2023,Female,52,Berlin,Europe,CHUrneD
+CUST_874,Customer_874 ,31-12-2023,Male,,London,North America,Churned
+CUST_875,Customer_875 ,27-07-2023,Other,58,Tokyo,South America,Active
+CUST_876,Customer_876 ,19-01-2020,Other,64,Berlin,Africa,Active
+CUST_877,Customer_877 ,20-09-2023,emale,42,Paris,South America,Active
+CUST_878,Customer_878 ,16-07-2022,Other,,New York,Asia,Active
+CUST_879,Customer_879 ,30-03-2020,Other,39,New York,South America,Active
+CUST_880,Customer_880 ,02-11-2023,Female,41,lonDon,South America,Churned
+CUST_881,Customer_881 ,06-04-2020,Other,32,Paris,Africa,Active
+CUST_882,Customer_882 ,04-05-2024,Male,51,London,Asia,Active
+CUST_883,Customer_883 ,07-05-2024,Female,,London,Africa,Active
+CUST_884,Customer_884 ,18-09-2023,FemaLe,37,New York,South America,Active
+CUST_885,Customer_885 ,31-12-2022,Oher,,London,North America,Churned
+CUST_886,Customer_886 ,28-02-2022,Female,,Tokyo,Afica,Churned
+CUST_887,Customer_887 ,08-12-2020,Other,58,São Paulo,Europe,Churned
+CUST_888,Customer_888 ,02-10-2020,Male,36,Tokyo,Africa,hurned
+CUST_889,Customer_889 ,30-06-2020,Female,49,Delhi,Africa,Active
+CUST_890,Customer_890 ,24-05-2023,Male,64,São Paulo,Asia,Churned
+CUST_891,Customer_891 ,08-10-2024,Other,43,Paris,Europe,Active
+CUST_892,Customer_892 ,01-12-2021,Female,,New York,Europe,Active
+CUST_893,Customer_893 ,10-08-2023,Female,32,Paris,afrIcA,Churned
+CUST_894,Customer_894 ,06-04-2022,Female,,Berlin,South America,Churned
+CUST_895,Customer_895 ,26-07-2020,Male,36,São Paulo,Asia,Active
+CUST_896,Customer_896 ,21-12-2022,Female,41,Paris,Africa,Churned
+CUST_897,Customer_897 ,03-10-2023,Male,53,São Paulo,North America,ACtivE
+CUST_898,Customer_898 ,01-12-2024,Female,,New Yor,Asia,Active
+CUST_899,Customer_899 ,12-07-2024,maLE,,Berlin,north aMeRiCa,Active
+CUST_900,Customer_900 ,02-08-2023,Other,48,São Paulo,North America,Active
+CUST_901,Customer_901 ,23-02-2023,Female,53,São aulo,Africa,Churned
+CUST_902,Customer_902 ,22-06-2023,FeMaLe,,Delhi,North America,Churned
+CUST_903,Customer_903 ,30-06-2024,Male,51,New York,South Americ,Churned
+CUST_904,Customer_904 ,09-03-2024,Male,,London,Europe,Active
+CUST_905,Customer_905 ,01-04-2022,Female,,Belin,Africa,Churned
+CUST_906,Customer_906 ,08-06-2024,Other,,New York,South America,Churned
+CUST_907,Customer_907 ,05-07-2024,Male,,Lodo,North America,Churned
+CUST_908,Customer_908 ,21-12-2021,Female,31,Tokyo,Europe,Churned
+CUST_909,Customer_909 ,29-12-2022,Other,42,London,Africa,Churned
+CUST_910,Customer_910 ,25-11-2021,Male,51,Tokyo,Asia,Churned
+CUST_911,Customer_911 ,10-12-2022,Other,,São Paulo,North America,Churned
+CUST_912,Customer_912 ,05-08-2023,Female,,São Paulo,Europe,Active
+CUST_913,Customer_913 ,24-02-2020,Male,,New York,Africa,Active
+CUST_914,Customer_914 ,22-01-2024,Male,,New York,Africa,Churned
+CUST_915,Customer_915 ,17-07-2024,Other,,London,Sout America,Churned
+CUST_916,Customer_916 ,17-10-2024,Female,43,Tokyo,Asia,Churned
+CUST_917,Customer_917 ,17-12-2023,Othe,34,Berli,North America,Churned
+CUST_918,Customer_918 ,27-03-2023,Male,47,Tokyo,Erope,Active
+CUST_919,Customer_919 ,23-07-2024,Male,61,Berlin,Europe,Activ
+CUST_920,Customer_920 ,24-04-2023,Female,53,Tokyo,SOutH aMerIcA,Churned
+CUST_921,Customer_921 ,10-06-2024,Female,,London,NortH amERICA,Churned
+CUST_922,Customer_922 ,09-03-2021,Male,,New York,South America,Active
+CUST_923,Customer_923 ,21-08-2020,Female,42,paris,afrICa,Churned
+CUST_924,Customer_924 ,29-10-2021,Other,,Berlin,North America,Active
+CUST_925,Customer_925 ,09-02-2020,Other,,Tokyo,Asia,ActIvE
+CUST_926,Customer_926 ,02-03-2021,Other,,São Paulo,South America,Active
+CUST_927,Customer_927 ,15-01-2023,OTHeR,,Delhi,Europe,Churned
+CUST_928,Customer_928 ,12-05-2020,Male,46,Tokyo,South America,Active
+CUST_929,Customer_929 ,24-06-2022,Female,,London,South America,Active
+CUST_930,Customer_930 ,10-01-2023,Othe,,London,Asia,Active
+CUST_931,Customer_931 ,22-07-2024,Female,,Delhi,South America,Active
+CUST_932,Customer_932 ,13-04-2020,Female,24,Tokyo,South America,actiVE
+CUST_933,Customer_933 ,29-03-2023,fEmALE,23,São Paulo,Europe,Churned
+CUST_934,Customer_934 ,28-08-2021,Female,49,são paulo,sOutH ameriCA,Churned
+CUST_935,Customer_935 ,15-08-2021,Female,,Paris,North America,Churned
+CUST_936,Customer_936 ,14-11-2020,Male,50,Delhi,Asia,Active
+CUST_937,Customer_937 ,08-01-2020,Male,28,São Paulo,EUROPE,Actve
+CUST_938,Customer_938 ,07-08-2022,Male,,Berlin,Africa,Churned
+CUST_939,Customer_939 ,10-06-2020,Othr,63,London,North America,Churned
+CUST_940,Customer_940 ,16-01-2022,Male,64,London,Asia,Actie
+CUST_941,Customer_941 ,19-09-2022,Female,,New York,Asia,Churned
+CUST_942,Customer_942 ,22-08-2021,Other,40,New York,NoRTh AmeriCa,cHUrnEd
+CUST_943,Customer_943 ,27-06-2021,Male,,PaRIS,Africa,Churnd
+CUST_944,Customer_944 ,11-03-2020,Other,49,Berlin,North America,Active
+CUST_945,Customer_945 ,15-09-2022,Other,,New York,EurOPE,Active
+CUST_946,Customer_946 ,27-10-2024,Other,,São Paulo,South America,Churned
+CUST_947,Customer_947 ,10-09-2023,Female,,Paris,Europe,aCTIVE
+CUST_948,Customer_948 ,26-03-2024,Male,55,Berlin,Europe,Churned
+CUST_949,Customer_949 ,24-04-2022,oThEr,,Delhi,Africa,Active
+CUST_950,Customer_950 ,21-12-2021,Female,,paRIs,Africa,Active
+CUST_951,Customer_951 ,09-05-2022,Male,,São Paulo,South America,Active
+CUST_952,Customer_952 ,06-04-2024,Other,43,Ne York,South America,Active
+CUST_953,Customer_953 ,17-02-2020,Male,45,lOndOn,Africa,Active
+CUST_954,Customer_954 ,09-11-2020,Other,,São Paulo,Africa,Active
+CUST_955,Customer_955 ,25-10-2024,Female,,Paris,South America,Active
+CUST_956,Customer_956 ,23-07-2022,Male,54,Paris,Europe,Churned
+CUST_957,Customer_957 ,06-03-2021,Female,,NEw yoRk,North America,Active
+CUST_958,Customer_958 ,25-10-2020,Female,54,Tokyo,Europe,Churned
+CUST_959,Customer_959 ,17-03-2024,Other,,London,Asia,Churned
+CUST_960,Customer_960 ,15-08-2023,Male,,Tky,Africa,Churned
+CUST_961,Customer_961 ,24-03-2022,Other,,Delhi,Africa,Actie
+CUST_962,Customer_962 ,08-12-2023,Other,41,Tokyo,North America,Active
+CUST_963,Customer_963 ,22-10-2022,Male,,São Paulo,Asia,Active
+CUST_964,Customer_964 ,03-10-2021,Male,59,Pris,Asia,Churned
+CUST_965,Customer_965 ,14-06-2021,Male,51,LOndOn,orth America,Active
+CUST_966,Customer_966 ,03-03-2023,Other,44,New York,Africa,Active
+CUST_967,Customer_967 ,23-10-2023,Female,26,toKyo,North America,Active
+CUST_968,Customer_968 ,01-11-2022,Othe,45,Tokyo,Europe,Churned
+CUST_969,Customer_969 ,30-08-2022,Male,,London,Aia,Active
+CUST_970,Customer_970 ,03-02-2024,Oter,,Berlin,Europe,Active
+CUST_971,Customer_971 ,04-05-2020,Other,29,Tokyo,South America,Active
+CUST_972,Customer_972 ,01-04-2021,Other,,Paris,South America,ChuRnED
+CUST_973,Customer_973 ,01-12-2020,Female,31,São Paulo,NOrTh AMeRIcA,Active
+CUST_974,Customer_974 ,05-03-2023,Female,34,nEw yoRk,EUroPe,CHUrNED
+CUST_975,Customer_975 ,16-10-2022,Mle,22,New York,Asia,Active
+CUST_976,Customer_976 ,28-09-2022,Male,49,London,Europe,Churned
+CUST_977,Customer_977 ,29-05-2023,Female,28,Delhi,South America,Churned
+CUST_978,Customer_978 ,20-06-2023,Male,,Tokyo,Asia,Active
+CUST_979,Customer_979 ,29-07-2021,Other,46,Tokyo,North America,Active
+CUST_980,Customer_980 ,24-08-2020,MaLE,,London,Europe,Active
+CUST_981,Customer_981 ,05-05-2020,Female,63,London,South America,Actie
+CUST_982,Customer_982 ,20-08-2022,Other,42,Berlin,Africa,Active
+CUST_983,Customer_983 ,16-08-2021,FEmALE,,Delhi,North America,Active
+CUST_984,Customer_984 ,27-11-2020,Male,64,London,Europe,Active
+CUST_985,Customer_985 ,04-05-2022,Male,61,London,Africa,ChURnED
+CUST_986,Customer_986 ,26-05-2021,Male,18,Delhi,AFrIcA,Churned
+CUST_987,Customer_987 ,15-01-2022,Other,,Tokyo,North America,Active
+CUST_988,Customer_988 ,30-07-2024,Male,54,Berlin,Europe,Churned
+CUST_989,Customer_989 ,02-03-2022,Male,24,Berlin,Asia,ChUrnEd
+CUST_990,Customer_990 ,30-03-2023,Other,,Dehi,Europe,Churned
+CUST_991,Customer_991 ,15-12-2020,Fmal,,Tky,Africa,Active
+CUST_992,Customer_992 ,17-07-2024,Other,47,New York,Asia,Churned
+CUST_993,Customer_993 ,17-03-2021,Female,,New York,Europe,Churned
+CUST_994,Customer_994 ,10-03-2023,Female,,Berlin,AFRICa,ChuRNEd
+CUST_995,Customer_995 ,06-11-2022,Other,,Tokyo,Asia,Churned
+CUST_996,Customer_996 ,30-05-2023,Female,47,São Paulo,Asia,Active
+CUST_997,Customer_997 ,12-03-2020,Male,63,New York,Europe,Churned
+CUST_998,Customer_998 ,22-12-2021,Female,57,Paris,Asia,churNEd
+CUST_999,Customer_999 ,17-11-2020,Male,54,Tokyo,Africa,Churned
+CUST_1000,Customer_1000 ,13-03-2023,Male,,London,Asia,Active

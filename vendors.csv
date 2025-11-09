@@ -1,0 +1,501 @@
+vendor_id,vendor_name,onboard_date,avg_rating,total_products,region
+VEND_1,Vendor_1,11-07-2023,,401,North America
+VEND_2,Vendor_2,11-01-2018,3.7,9899,Asia
+VEND_3,Vendor_3,05-07-2020,2.3,916,Africa
+VEND_4,Vendor_4,21-03-2018,-,,North America
+VEND_5,Vendor_5,29-07-2018,3.7,531,North America
+VEND_6,Vendor_6,13-03-2024,,,North America
+VEND_7,Vendor_7,01-03-2018,,9833,Norh America
+VEND_8,Vendor_8,05-02-2023,-,1784,North America
+VEND_9,Vendor_9,21-03-2019,3.2,6283,Asia
+VEND_10,Vendor_10,17-04-2023,,,Africa
+VEND_11,Vendor_11,14-08-2023,-,,Africa
+VEND_12,Vendor_12,15-11-2018,,6482,Europe
+VEND_13,Vendor_13,18-01-2022,3.4,,Africa
+VEND_14,Vendor_14,27-10-2018,,,South America
+VEND_15,Vendor_15,08-03-2023,5,,NorthAmerica
+VEND_16,Vendor_16,06-10-2018,,,South America
+VEND_17,Vendor_17,06-11-2020,2.6,9648,South America
+VEND_18,Vendor_18,19-05-2023,3.1,5448,Africa
+VEND_19,Vendor_19,30-09-2018,4.7,5829,North America
+VEND_20,Vendor_20,21-08-2024,2.4,,Asia
+VEND_21,Vendor_21,30-11-2024,,6275,North America
+VEND_22,Vendor_22,24-07-2022,4,1624,North America
+VEND_23,Vendor_23,14-04-2024,,,North America
+VEND_24,Vendor_24,20-01-2020,4.4,,North America
+VEND_25,Vendor_25,13-09-2019,,5802,Africa
+VEND_26,Vendor_26,01-04-2020,-,8839,South America
+VEND_27,Vendor_27,05-08-2019,,342,South America
+VEND_28,Vendor_28,01-07-2023,,7662,North America
+VEND_29,Vendor_29,22-08-2021,-,,South America
+VEND_30,Vendor_30,30-08-2021,-,7813,Europe
+VEND_31,Vendor_31,24-04-2024,4.3,645,Europe
+VEND_32,Vendor_32,01-09-2018,2,1135,North America
+VEND_33,Vendor_33,23-10-2023,3.4,6944,North America
+VEND_34,Vendor_34,12-03-2019,-,428,EuroPE
+VEND_35,Vendor_35,19-04-2020,2.6,90,North America
+VEND_36,Vendor_36,06-08-2018,,674,euroPe
+VEND_37,Vendor_37,05-10-2022,,,Asia
+VEND_38,Vendor_38,15-09-2021,-,1516,North America
+VEND_39,Vendor_39,09-03-2018,-,,South America
+VEND_40,Vendor_40,17-01-2022,,,Asia
+VEND_41,Vendor_41,23-07-2022,,,Asi
+VEND_42,Vendor_42,16-09-2022,,6475,Africa
+VEND_43,Vendor_43,23-09-2019,,6452,Africa
+VEND_44,Vendor_44,31-08-2020,4.2,8683,Africa
+VEND_45,Vendor_45,22-06-2019,4.2,6297,South Ameria
+VEND_46,Vendor_46,25-02-2019,4.1,5823,North America
+VEND_47,Vendor_47,23-08-2023,,450,Africa
+VEND_48,Vendor_48,30-10-2018,-,,Asia
+VEND_49,Vendor_49,08-01-2019,,1854,Asia
+VEND_50,Vendor_50,12-08-2022,4.7,550,North America
+VEND_51,Vendor_51,27-08-2022,,6121,NorTH amERiCA
+VEND_52,Vendor_52,28-12-2023,4.7,,Asia
+VEND_53,Vendor_53,03-02-2019,,,Africa
+VEND_54,Vendor_54,23-08-2023,,,North America
+VEND_55,Vendor_55,24-04-2024,3.6,6818,Asia
+VEND_56,Vendor_56,12-04-2018,-,105,Europe
+VEND_57,Vendor_57,31-07-2022,,,North America
+VEND_58,Vendor_58,17-12-2021,,6798,Africa
+VEND_59,Vendor_59,12-11-2019,,,Europe
+VEND_60,Vendor_60,21-11-2022,4,68,Europe
+VEND_61,Vendor_61,29-09-2020,-,7350,South America
+VEND_62,Vendor_62,11-11-2019,-,,South America
+VEND_63,Vendor_63,22-06-2023,,8517,Asia
+VEND_64,Vendor_64,29-08-2020,,7971,North America
+VEND_65,Vendor_65,31-03-2022,3.8,1510,South America
+VEND_66,Vendor_66,24-03-2022,,,North America
+VEND_67,Vendor_67,04-01-2018,4.6,,South America
+VEND_68,Vendor_68,30-08-2019,,,North America
+VEND_69,Vendor_69,13-02-2020,,7588,South America
+VEND_70,Vendor_70,30-04-2023,,9939,Africa
+VEND_71,Vendor_71,23-04-2022,,,Africa
+VEND_72,Vendor_72,21-09-2022,,,Asia
+VEND_73,Vendor_73,19-05-2023,-,,Africa
+VEND_74,Vendor_74,26-02-2022,,8921,South America
+VEND_75,Vendor_75,28-05-2023,-,1125,North America
+VEND_76,Vendor_76,27-12-2022,,145,South America
+VEND_77,Vendor_77,26-05-2023,-,242,Asia
+VEND_78,Vendor_78,10-05-2020,,7448,North America
+VEND_79,Vendor_79,13-07-2023,-,6709,Aia
+VEND_80,Vendor_80,13-03-2024,-,,North America
+VEND_81,Vendor_81,23-02-2018,2,,Europe
+VEND_82,Vendor_82,31-03-2018,3.5,57,Africa
+VEND_83,Vendor_83,24-08-2023,-,260,North America
+VEND_84,Vendor_84,31-12-2020,4.8,,Europe
+VEND_85,Vendor_85,10-10-2024,-,9335,eURoPE
+VEND_86,Vendor_86,04-01-2022,-,,Africa
+VEND_87,Vendor_87,21-02-2022,,7788,Europe
+VEND_88,Vendor_88,24-11-2022,4.5,5753,Africa
+VEND_89,Vendor_89,02-05-2019,3.2,693,North America
+VEND_90,Vendor_90,23-10-2019,-,7850,Asia
+VEND_91,Vendor_91,29-08-2018,-,6941,North America
+VEND_92,Vendor_92,20-05-2024,,5866,Asia
+VEND_93,Vendor_93,25-01-2023,,,Europe
+VEND_94,Vendor_94,14-01-2021,3.5,,Asia
+VEND_95,Vendor_95,21-05-2018,-,,Europe
+VEND_96,Vendor_96,22-05-2020,,363,South America
+VEND_97,Vendor_97,24-04-2024,,9728,EUrOpe
+VEND_98,Vendor_98,04-12-2021,,6244,Asia
+VEND_99,Vendor_99,01-12-2018,-,1548,North America
+VEND_100,Vendor_100,05-04-2020,,6632,South America
+VEND_101,Vendor_101,16-06-2020,-,7370,Europe
+VEND_102,Vendor_102,21-11-2020,,5436,Asia
+VEND_103,Vendor_103,14-11-2024,3.7,9823,Africa
+VEND_104,Vendor_104,05-11-2023,,5482,North America
+VEND_105,Vendor_105,05-01-2022,,6648,South America
+VEND_106,Vendor_106,12-03-2024,-,529,South America
+VEND_107,Vendor_107,07-10-2022,,1210,Africa
+VEND_108,Vendor_108,13-08-2024,-,,Africa
+VEND_109,Vendor_109,20-07-2018,-,1179,Africa
+VEND_110,Vendor_110,06-03-2024,-,1197,Asia
+VEND_111,Vendor_111,07-03-2021,,84,North America
+VEND_112,Vendor_112,10-01-2021,,,Afrca
+VEND_113,Vendor_113,16-10-2018,,5831,North America
+VEND_114,Vendor_114,07-03-2023,,8393,Asia
+VEND_115,Vendor_115,08-04-2023,-,,South America
+VEND_116,Vendor_116,13-07-2021,,6311,Africa
+VEND_117,Vendor_117,14-05-2021,-,1537,Europe
+VEND_118,Vendor_118,25-07-2018,,1149,North America
+VEND_119,Vendor_119,09-07-2019,3.4,1561,Sout America
+VEND_120,Vendor_120,07-06-2023,-,1869,South America
+VEND_121,Vendor_121,22-07-2019,-,738,eUROpe
+VEND_122,Vendor_122,22-11-2019,-,8868,aFRica
+VEND_123,Vendor_123,01-06-2020,,,Europe
+VEND_124,Vendor_124,11-09-2022,-,,Africa
+VEND_125,Vendor_125,20-10-2020,3.4,,Asia
+VEND_126,Vendor_126,02-03-2021,2.9,738,Africa
+VEND_127,Vendor_127,08-05-2022,3.4,7388,Africa
+VEND_128,Vendor_128,09-02-2024,2.7,,Asia
+VEND_129,Vendor_129,29-09-2018,,982,South America
+VEND_130,Vendor_130,04-07-2019,-,1463,Africa
+VEND_131,Vendor_131,21-01-2019,,1986,Asia
+VEND_132,Vendor_132,12-07-2023,,1438,Europe
+VEND_133,Vendor_133,14-09-2019,,,North America
+VEND_134,Vendor_134,10-11-2023,,,South America
+VEND_135,Vendor_135,28-01-2018,,6495,Europe
+VEND_136,Vendor_136,17-12-2019,,,North America
+VEND_137,Vendor_137,11-05-2024,,1418,Asia
+VEND_138,Vendor_138,24-01-2024,,1541,Africa
+VEND_139,Vendor_139,23-12-2021,,1342,North America
+VEND_140,Vendor_140,23-08-2018,-,,afRIcA
+VEND_141,Vendor_141,18-11-2023,-,6418,South America
+VEND_142,Vendor_142,28-03-2019,,6284,Europe
+VEND_143,Vendor_143,06-11-2018,3.7,,eURope
+VEND_144,Vendor_144,28-12-2022,-,,Africa
+VEND_145,Vendor_145,30-06-2019,-,8434,Africa
+VEND_146,Vendor_146,24-11-2020,2.6,961,South America
+VEND_147,Vendor_147,24-11-2024,,9855,North America
+VEND_148,Vendor_148,03-08-2019,,,Africa
+VEND_149,Vendor_149,04-08-2024,-,7756,North America
+VEND_150,Vendor_150,21-11-2020,,,Africa
+VEND_151,Vendor_151,18-06-2022,2.2,9775,Africa
+VEND_152,Vendor_152,29-03-2021,,,AfricA
+VEND_153,Vendor_153,22-09-2018,,,South America
+VEND_154,Vendor_154,28-09-2022,4.6,306,Europe
+VEND_155,Vendor_155,12-07-2024,-,,North America
+VEND_156,Vendor_156,27-11-2020,-,930,Europe
+VEND_157,Vendor_157,27-09-2021,-,1228,North America
+VEND_158,Vendor_158,28-09-2020,-,,South America
+VEND_159,Vendor_159,12-07-2022,,1494,North America
+VEND_160,Vendor_160,04-05-2020,-,1194,Asia
+VEND_161,Vendor_161,26-07-2020,,9320,Africa
+VEND_162,Vendor_162,09-05-2024,,6393,North America
+VEND_163,Vendor_163,02-12-2023,-,,South America
+VEND_164,Vendor_164,10-12-2019,,5254,South America
+VEND_165,Vendor_165,23-06-2019,-,394,Africa
+VEND_166,Vendor_166,13-05-2018,2.2,,North America
+VEND_167,Vendor_167,29-09-2018,3.4,,Europe
+VEND_168,Vendor_168,03-09-2022,-,,Africa
+VEND_169,Vendor_169,04-04-2024,,,South America
+VEND_170,Vendor_170,02-11-2020,3.3,6819,Africa
+VEND_171,Vendor_171,05-09-2020,,653,North America
+VEND_172,Vendor_172,18-02-2018,-,5981,North America
+VEND_173,Vendor_173,31-10-2019,-,,outh America
+VEND_174,Vendor_174,08-10-2024,,7782,Africa
+VEND_175,Vendor_175,21-08-2022,-,,Africa
+VEND_176,Vendor_176,28-02-2024,,8308,Europe
+VEND_177,Vendor_177,28-07-2022,,,Africa
+VEND_178,Vendor_178,20-02-2020,,1812,South America
+VEND_179,Vendor_179,12-01-2021,,,South America
+VEND_180,Vendor_180,19-07-2023,,1275,Africa
+VEND_181,Vendor_181,01-04-2018,-,,Africa
+VEND_182,Vendor_182,20-02-2018,,12,Africa
+VEND_183,Vendor_183,18-11-2022,-,7855,Europe
+VEND_184,Vendor_184,31-10-2018,3.9,5828,SoUTH AMERIcA
+VEND_185,Vendor_185,14-03-2018,3.4,980,Europe
+VEND_186,Vendor_186,04-08-2023,2.2,,South America
+VEND_187,Vendor_187,16-01-2019,-,1766,Asia
+VEND_188,Vendor_188,02-02-2018,,7931,Europe
+VEND_189,Vendor_189,22-09-2024,,9987,Africa
+VEND_190,Vendor_190,29-10-2022,,,North America
+VEND_191,Vendor_191,31-07-2020,-,,Asia
+VEND_192,Vendor_192,02-10-2019,,5287,Africa
+VEND_193,Vendor_193,02-08-2019,2.8,,Africa
+VEND_194,Vendor_194,09-08-2023,,9626,South America
+VEND_195,Vendor_195,08-09-2021,2.5,1227,Africa
+VEND_196,Vendor_196,04-05-2022,-,130,Asia
+VEND_197,Vendor_197,30-10-2022,5,9187,North America
+VEND_198,Vendor_198,12-09-2023,4.6,7874,Africa
+VEND_199,Vendor_199,06-06-2024,,1787,Asia
+VEND_200,Vendor_200,19-04-2020,,443,South America
+VEND_201,Vendor_201,05-03-2024,3.7,8723,AFRICa
+VEND_202,Vendor_202,31-03-2022,,7277,NoRtH AMeRica
+VEND_203,Vendor_203,23-07-2023,,6323,AFRIcA
+VEND_204,Vendor_204,22-01-2019,2.6,,Asia
+VEND_205,Vendor_205,26-04-2020,,9901,sia
+VEND_206,Vendor_206,28-09-2023,3.8,,Africa
+VEND_207,Vendor_207,02-05-2023,,,South America
+VEND_208,Vendor_208,28-01-2020,,5105,Africa
+VEND_209,Vendor_209,27-05-2022,,5201,Asia
+VEND_210,Vendor_210,13-04-2019,-,,Asia
+VEND_211,Vendor_211,20-10-2024,,,Europe
+VEND_212,Vendor_212,24-04-2021,-,1260,NoRtH ameRica
+VEND_213,Vendor_213,17-01-2021,2.9,,Asia
+VEND_214,Vendor_214,12-10-2022,-,7391,Asia
+VEND_215,Vendor_215,24-07-2019,4.2,788,North Ameria
+VEND_216,Vendor_216,09-12-2020,,,Aia
+VEND_217,Vendor_217,04-06-2023,,8110,North America
+VEND_218,Vendor_218,18-05-2019,,8382,Africa
+VEND_219,Vendor_219,25-01-2024,,7264,Europe
+VEND_220,Vendor_220,26-10-2024,3.2,1450,aFrICa
+VEND_221,Vendor_221,26-06-2019,,7006,North America
+VEND_222,Vendor_222,07-07-2019,,9960,Africa
+VEND_223,Vendor_223,18-05-2024,3,1765,Europe
+VEND_224,Vendor_224,27-12-2021,2,1556,South America
+VEND_225,Vendor_225,30-12-2019,,1181,Europe
+VEND_226,Vendor_226,12-10-2019,-,8455,SOuTh aMErICA
+VEND_227,Vendor_227,07-08-2024,,8615,North America
+VEND_228,Vendor_228,27-09-2020,-,1055,Europe
+VEND_229,Vendor_229,05-12-2023,,,Europe
+VEND_230,Vendor_230,19-06-2018,,9654,South America
+VEND_231,Vendor_231,02-08-2021,,900,Asia
+VEND_232,Vendor_232,06-06-2020,,,Africa
+VEND_233,Vendor_233,16-10-2021,-,,South America
+VEND_234,Vendor_234,12-09-2024,,1056,South America
+VEND_235,Vendor_235,23-01-2018,,,Asia
+VEND_236,Vendor_236,29-12-2024,4.1,9355,Europe
+VEND_237,Vendor_237,17-10-2020,-,1812,North America
+VEND_238,Vendor_238,14-11-2023,2.8,,North America
+VEND_239,Vendor_239,10-06-2024,,,Europe
+VEND_240,Vendor_240,27-02-2022,,,Asia
+VEND_241,Vendor_241,23-09-2018,,,Europe
+VEND_242,Vendor_242,15-06-2018,,,Asia
+VEND_243,Vendor_243,29-07-2021,,1007,Africa
+VEND_244,Vendor_244,23-07-2018,4.4,,South America
+VEND_245,Vendor_245,18-10-2021,-,,South America
+VEND_246,Vendor_246,28-03-2023,,5666,North America
+VEND_247,Vendor_247,14-02-2022,,,Africa
+VEND_248,Vendor_248,11-09-2022,5,,Asia
+VEND_249,Vendor_249,30-05-2021,-,,Europe
+VEND_250,Vendor_250,04-02-2023,4.2,7081,Asia
+VEND_251,Vendor_251,12-09-2019,,975,South America
+VEND_252,Vendor_252,28-03-2019,,539,South America
+VEND_253,Vendor_253,03-07-2020,,,Africa
+VEND_254,Vendor_254,23-06-2023,3.6,9594,Africa
+VEND_255,Vendor_255,17-09-2024,,444,South America
+VEND_256,Vendor_256,21-03-2022,,,South America
+VEND_257,Vendor_257,28-06-2024,,1449,South America
+VEND_258,Vendor_258,18-11-2024,4.5,5683,Africa
+VEND_259,Vendor_259,21-03-2018,,1355,Europe
+VEND_260,Vendor_260,06-04-2018,,,South America
+VEND_261,Vendor_261,01-12-2020,,,Europe
+VEND_262,Vendor_262,23-11-2023,-,9142,Asia
+VEND_263,Vendor_263,15-05-2023,-,5101,Europe
+VEND_264,Vendor_264,20-07-2021,,,Europe
+VEND_265,Vendor_265,15-02-2022,4.5,1106,South America
+VEND_266,Vendor_266,29-10-2018,-,7697,Europe
+VEND_267,Vendor_267,03-11-2018,,1950,North America
+VEND_268,Vendor_268,28-09-2018,,,Africa
+VEND_269,Vendor_269,10-04-2020,,,north amERica
+VEND_270,Vendor_270,20-12-2024,,,Africa
+VEND_271,Vendor_271,25-01-2019,2.9,9738,Europe
+VEND_272,Vendor_272,12-04-2022,2.9,,Africa
+VEND_273,Vendor_273,17-08-2020,-,9258,nORTH AmerICa
+VEND_274,Vendor_274,29-07-2020,,,Nort America
+VEND_275,Vendor_275,21-01-2018,2.4,5473,asiA
+VEND_276,Vendor_276,05-04-2024,3.8,,AfRica
+VEND_277,Vendor_277,12-01-2021,-,1170,South America
+VEND_278,Vendor_278,26-11-2024,,,Africa
+VEND_279,Vendor_279,14-03-2018,4.8,,North America
+VEND_280,Vendor_280,01-08-2022,3.7,8108,Africa
+VEND_281,Vendor_281,03-12-2019,,9540,Asia
+VEND_282,Vendor_282,25-11-2021,,8468,soUth AmeRIcA
+VEND_283,Vendor_283,27-02-2022,,6819,Africa
+VEND_284,Vendor_284,22-02-2020,2.2,,Asia
+VEND_285,Vendor_285,16-05-2024,,5301,South America
+VEND_286,Vendor_286,05-06-2024,2.5,1188,South America
+VEND_287,Vendor_287,23-12-2019,4.8,518,North America
+VEND_288,Vendor_288,03-04-2021,,,Europe
+VEND_289,Vendor_289,25-07-2019,4.3,8213,Europe
+VEND_290,Vendor_290,21-12-2023,3.1,5109,Africa
+VEND_291,Vendor_291,20-06-2021,,,North America
+VEND_292,Vendor_292,08-06-2023,-,,Africa
+VEND_293,Vendor_293,01-04-2024,,8156,Europe
+VEND_294,Vendor_294,24-08-2019,2.4,,Africa
+VEND_295,Vendor_295,04-09-2021,,1102,Asia
+VEND_296,Vendor_296,09-08-2023,2.4,,North America
+VEND_297,Vendor_297,13-12-2024,3.3,6013,Europe
+VEND_298,Vendor_298,12-05-2020,,1362,North America
+VEND_299,Vendor_299,04-11-2020,,339,Europe
+VEND_300,Vendor_300,29-05-2022,4.4,6163,noRth AMeRICA
+VEND_301,Vendor_301,26-09-2023,,40,Asia
+VEND_302,Vendor_302,04-06-2022,3,8191,North America
+VEND_303,Vendor_303,24-04-2019,2,,North America
+VEND_304,Vendor_304,28-10-2021,4.2,1864,Asia
+VEND_305,Vendor_305,21-12-2021,2.3,5193,North America
+VEND_306,Vendor_306,30-10-2023,4.9,,Asia
+VEND_307,Vendor_307,29-06-2021,,645,North America
+VEND_308,Vendor_308,16-04-2022,3.1,8317,Afria
+VEND_309,Vendor_309,02-12-2024,,9559,South America
+VEND_310,Vendor_310,14-08-2022,,9842,Asia
+VEND_311,Vendor_311,15-11-2019,,1070,eUrope
+VEND_312,Vendor_312,13-12-2020,2.3,,AfRica
+VEND_313,Vendor_313,11-04-2021,4.3,9062,Asia
+VEND_314,Vendor_314,25-12-2019,-,5798,Africa
+VEND_315,Vendor_315,23-06-2023,3.1,1854,Africa
+VEND_316,Vendor_316,26-05-2023,,,Asia
+VEND_317,Vendor_317,18-10-2020,,7747,Asia
+VEND_318,Vendor_318,04-11-2019,2.2,6726,Africa
+VEND_319,Vendor_319,06-08-2023,,6622,Africa
+VEND_320,Vendor_320,12-06-2021,,,South America
+VEND_321,Vendor_321,16-03-2021,,1884,Afria
+VEND_322,Vendor_322,13-07-2020,4.9,,Africa
+VEND_323,Vendor_323,23-10-2024,,9131,ASIa
+VEND_324,Vendor_324,06-05-2021,-,8003,Europe
+VEND_325,Vendor_325,22-03-2020,-,9965,North America
+VEND_326,Vendor_326,20-07-2024,,6785,Africa
+VEND_327,Vendor_327,14-10-2021,,8401,noRTH AMerICa
+VEND_328,Vendor_328,20-06-2020,,488,Africa
+VEND_329,Vendor_329,25-11-2023,-,526,Europe
+VEND_330,Vendor_330,21-05-2020,-,,South America
+VEND_331,Vendor_331,26-05-2022,,5887,Africa
+VEND_332,Vendor_332,28-07-2019,,,EUropE
+VEND_333,Vendor_333,23-08-2023,,,Europe
+VEND_334,Vendor_334,19-09-2020,-,,North America
+VEND_335,Vendor_335,18-09-2018,,,SouTH aMERIcA
+VEND_336,Vendor_336,04-04-2022,2.3,68,Africa
+VEND_337,Vendor_337,25-10-2019,3.8,1368,Asia
+VEND_338,Vendor_338,19-07-2023,,6523,North America
+VEND_339,Vendor_339,15-04-2022,,290,Asia
+VEND_340,Vendor_340,29-11-2018,,,South America
+VEND_341,Vendor_341,09-03-2022,,,Europe
+VEND_342,Vendor_342,18-12-2018,3.4,,South America
+VEND_343,Vendor_343,22-05-2022,,348,North America
+VEND_344,Vendor_344,25-11-2020,,,Africa
+VEND_345,Vendor_345,09-12-2020,,9997,Africa
+VEND_346,Vendor_346,03-03-2021,4.2,,North America
+VEND_347,Vendor_347,19-07-2021,-,,Asia
+VEND_348,Vendor_348,01-05-2018,,9243,South America
+VEND_349,Vendor_349,31-08-2020,4.4,,South America
+VEND_350,Vendor_350,09-05-2020,,26,South America
+VEND_351,Vendor_351,05-06-2020,,8385,Asia
+VEND_352,Vendor_352,21-10-2019,4.8,7490,South America
+VEND_353,Vendor_353,14-12-2023,,,EUrOPe
+VEND_354,Vendor_354,17-11-2019,,,Europe
+VEND_355,Vendor_355,11-02-2022,4.8,6494,afrIca
+VEND_356,Vendor_356,25-03-2021,,926,Europe
+VEND_357,Vendor_357,21-08-2019,3.4,,Europe
+VEND_358,Vendor_358,18-06-2024,2.4,205,Africa
+VEND_359,Vendor_359,16-04-2020,,6835,North America
+VEND_360,Vendor_360,22-04-2024,,6203,Asia
+VEND_361,Vendor_361,21-11-2021,,8006,Africa
+VEND_362,Vendor_362,04-08-2020,,883,Europe
+VEND_363,Vendor_363,26-09-2023,,,Asia
+VEND_364,Vendor_364,16-03-2024,,7579,South America
+VEND_365,Vendor_365,25-05-2021,,,Asia
+VEND_366,Vendor_366,27-09-2021,4.7,1229,Africa
+VEND_367,Vendor_367,23-07-2020,,,South America
+VEND_368,Vendor_368,09-04-2018,4.7,718,South America
+VEND_369,Vendor_369,29-10-2020,,5425,Europe
+VEND_370,Vendor_370,08-06-2020,,1588,Europe
+VEND_371,Vendor_371,20-02-2024,,1838,South America
+VEND_372,Vendor_372,21-06-2018,,9250,Africa
+VEND_373,Vendor_373,01-01-2021,4.3,99,South America
+VEND_374,Vendor_374,07-08-2023,,,Africa
+VEND_375,Vendor_375,08-05-2018,4,5794,North America
+VEND_376,Vendor_376,27-11-2024,-,,South America
+VEND_377,Vendor_377,24-04-2019,,,North America
+VEND_378,Vendor_378,28-07-2024,,5808,North America
+VEND_379,Vendor_379,14-05-2023,,244,Africa
+VEND_380,Vendor_380,10-07-2019,-,725,Africa
+VEND_381,Vendor_381,26-01-2020,-,1329,North America
+VEND_382,Vendor_382,14-06-2021,-,766,North America
+VEND_383,Vendor_383,14-03-2020,-,,North America
+VEND_384,Vendor_384,11-03-2021,4.2,,Africa
+VEND_385,Vendor_385,04-03-2023,-,463,South America
+VEND_386,Vendor_386,11-01-2024,3,191,Asi
+VEND_387,Vendor_387,25-11-2019,3.8,713,Asia
+VEND_388,Vendor_388,02-05-2022,-,,Europe
+VEND_389,Vendor_389,12-04-2022,,7202,South America
+VEND_390,Vendor_390,01-08-2020,-,6772,Europe
+VEND_391,Vendor_391,20-03-2023,,7340,South America
+VEND_392,Vendor_392,16-11-2021,-,5767,South America
+VEND_393,Vendor_393,03-07-2022,,6061,South America
+VEND_394,Vendor_394,03-01-2020,4,5400,Asia
+VEND_395,Vendor_395,29-09-2019,-,6402,Europe
+VEND_396,Vendor_396,26-04-2019,-,578,Europe
+VEND_397,Vendor_397,28-11-2021,-,,South America
+VEND_398,Vendor_398,10-09-2021,,9584,North America
+VEND_399,Vendor_399,16-10-2022,4.5,9514,Europe
+VEND_400,Vendor_400,04-02-2020,2.6,,Europe
+VEND_401,Vendor_401,01-10-2020,-,5598,Africa
+VEND_402,Vendor_402,24-09-2024,2.9,618,Asia
+VEND_403,Vendor_403,08-04-2024,,166,South America
+VEND_404,Vendor_404,24-06-2020,,5092,Suth America
+VEND_405,Vendor_405,21-09-2023,,,Europe
+VEND_406,Vendor_406,19-12-2019,,,Africa
+VEND_407,Vendor_407,18-12-2023,,1176,Africa
+VEND_408,Vendor_408,04-11-2021,-,6103,North America
+VEND_409,Vendor_409,03-09-2022,4.9,61,Asia
+VEND_410,Vendor_410,19-12-2018,,,Europe
+VEND_411,Vendor_411,01-10-2019,4.4,8096,North America
+VEND_412,Vendor_412,06-06-2019,2.2,9946,North America
+VEND_413,Vendor_413,06-11-2019,,8325,NortH AMeRIcA
+VEND_414,Vendor_414,24-11-2018,,,Asia
+VEND_415,Vendor_415,20-11-2022,4.7,7134,Africa
+VEND_416,Vendor_416,26-11-2019,,356,South America
+VEND_417,Vendor_417,02-06-2023,,291,North America
+VEND_418,Vendor_418,27-09-2023,2.1,6541,South America
+VEND_419,Vendor_419,01-11-2023,,869,Europe
+VEND_420,Vendor_420,18-08-2022,,,Europe
+VEND_421,Vendor_421,16-10-2020,-,670,Africa
+VEND_422,Vendor_422,26-07-2018,,8734,Asia
+VEND_423,Vendor_423,09-04-2023,-,1411,South America
+VEND_424,Vendor_424,02-08-2021,4.2,1915,South America
+VEND_425,Vendor_425,31-12-2024,,9488,Asia
+VEND_426,Vendor_426,29-08-2019,-,6900,Europe
+VEND_427,Vendor_427,08-03-2022,4.8,,NorTh amErICa
+VEND_428,Vendor_428,04-01-2022,4.5,,North America
+VEND_429,Vendor_429,08-08-2022,,,North America
+VEND_430,Vendor_430,13-03-2019,-,1551,Asia
+VEND_431,Vendor_431,29-04-2019,,,Asia
+VEND_432,Vendor_432,02-11-2019,,,Asia
+VEND_433,Vendor_433,18-03-2019,-,7522,South America
+VEND_434,Vendor_434,14-02-2020,,353,Asia
+VEND_435,Vendor_435,20-10-2023,,1313,Africa
+VEND_436,Vendor_436,25-08-2019,,7051,South Ameria
+VEND_437,Vendor_437,13-03-2024,,5120,Europe
+VEND_438,Vendor_438,12-08-2019,,,AfrICa
+VEND_439,Vendor_439,14-09-2020,,1908,North America
+VEND_440,Vendor_440,12-07-2020,,6165,Africa
+VEND_441,Vendor_441,08-07-2024,-,6805,Africa
+VEND_442,Vendor_442,21-03-2023,,966,Europe
+VEND_443,Vendor_443,23-05-2019,-,1294,South America
+VEND_444,Vendor_444,10-09-2019,,,Europe
+VEND_445,Vendor_445,02-11-2020,-,8051,aFRICa
+VEND_446,Vendor_446,14-02-2021,,1285,South America
+VEND_447,Vendor_447,02-06-2022,-,5497,North America
+VEND_448,Vendor_448,28-11-2020,,934,Asia
+VEND_449,Vendor_449,22-06-2020,,5233,Africa
+VEND_450,Vendor_450,22-01-2021,,7775,Europe
+VEND_451,Vendor_451,08-01-2019,2.9,,North America
+VEND_452,Vendor_452,04-10-2023,,538,afRICA
+VEND_453,Vendor_453,01-01-2018,-,8501,Europe
+VEND_454,Vendor_454,14-01-2018,-,,Africa
+VEND_455,Vendor_455,03-05-2021,4.3,,Asia
+VEND_456,Vendor_456,07-08-2022,,5450,EUroPe
+VEND_457,Vendor_457,06-06-2020,,9572,North America
+VEND_458,Vendor_458,05-01-2021,4.4,9962,Asia
+VEND_459,Vendor_459,21-04-2021,,8364,Afica
+VEND_460,Vendor_460,12-10-2019,2,,North America
+VEND_461,Vendor_461,06-07-2018,-,6427,Afria
+VEND_462,Vendor_462,08-12-2018,,247,North America
+VEND_463,Vendor_463,31-08-2020,,1131,Europe
+VEND_464,Vendor_464,03-06-2018,-,1526,SouTh AMERIcA
+VEND_465,Vendor_465,24-03-2021,,1025,nOrTH amerIcA
+VEND_466,Vendor_466,23-02-2023,3.1,7136,Africa
+VEND_467,Vendor_467,02-02-2019,,9047,Africa
+VEND_468,Vendor_468,25-10-2021,2.4,,North America
+VEND_469,Vendor_469,05-06-2018,,695,South America
+VEND_470,Vendor_470,18-06-2018,-,6653,Europe
+VEND_471,Vendor_471,18-12-2024,,477,Africa
+VEND_472,Vendor_472,07-04-2020,,,ASIa
+VEND_473,Vendor_473,23-12-2021,-,788,South America
+VEND_474,Vendor_474,30-01-2019,,161,South America
+VEND_475,Vendor_475,18-08-2018,,,North America
+VEND_476,Vendor_476,06-08-2022,2.3,,North America
+VEND_477,Vendor_477,05-12-2018,-,9351,Asia
+VEND_478,Vendor_478,07-05-2023,3.3,9920,South America
+VEND_479,Vendor_479,28-09-2020,,1112,South America
+VEND_480,Vendor_480,12-06-2023,3.1,9815,Africa
+VEND_481,Vendor_481,17-06-2023,,1476,EurOPe
+VEND_482,Vendor_482,19-09-2022,3.8,8218,Asia
+VEND_483,Vendor_483,03-09-2023,-,994,South America
+VEND_484,Vendor_484,07-07-2022,,,Asia
+VEND_485,Vendor_485,11-09-2021,4.5,7000,AsiA
+VEND_486,Vendor_486,01-02-2018,3.9,,Africa
+VEND_487,Vendor_487,09-02-2021,,,Africa
+VEND_488,Vendor_488,28-03-2018,,5684,Europe
+VEND_489,Vendor_489,28-06-2024,5,,South America
+VEND_490,Vendor_490,29-04-2018,,8837,South America
+VEND_491,Vendor_491,19-06-2023,-,,Asia
+VEND_492,Vendor_492,27-06-2024,,1150,Africa
+VEND_493,Vendor_493,21-07-2021,4.2,179,Europe
+VEND_494,Vendor_494,29-05-2019,-,,Asia
+VEND_495,Vendor_495,15-10-2019,3,128,North America
+VEND_496,Vendor_496,21-03-2020,-,,North America
+VEND_497,Vendor_497,04-07-2019,-,8485,Africa
+VEND_498,Vendor_498,02-10-2023,4.7,,Asia
+VEND_499,Vendor_499,15-01-2018,,9168,South America
+VEND_500,Vendor_500,10-05-2019,,,South America
